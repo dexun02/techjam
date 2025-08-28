@@ -1,0 +1,901 @@
+review,model,prompt,label
+I went to there with my girl friend; I liked fishes but she did not like because fishes are a little bit oily.,bart,direct,uncertain
+I went to there with my girl friend; I liked fishes but she did not like because fishes are a little bit oily.,bart,few_shot,uncertain
+I went to there with my girl friend; I liked fishes but she did not like because fishes are a little bit oily.,bart,cot,uncertain
+I went to there with my girl friend; I liked fishes but she did not like because fishes are a little bit oily.,t5_base,direct,advertisement
+I went to there with my girl friend; I liked fishes but she did not like because fishes are a little bit oily.,t5_base,few_shot,bad
+I went to there with my girl friend; I liked fishes but she did not like because fishes are a little bit oily.,t5_base,cot,a rant
+I went to there with my girl friend; I liked fishes but she did not like because fishes are a little bit oily.,t5_large,direct,trustworthy
+I went to there with my girl friend; I liked fishes but she did not like because fishes are a little bit oily.,t5_large,few_shot,negative
+I went to there with my girl friend; I liked fishes but she did not like because fishes are a little bit oily.,t5_large,cot,trustworthy
+Good in general. Quality for Kızılay and its surroundings. Lahmacun doesn't taste old...,bart,direct,trustworthy
+Good in general. Quality for Kızılay and its surroundings. Lahmacun doesn't taste old...,bart,few_shot,trustworthy
+Good in general. Quality for Kızılay and its surroundings. Lahmacun doesn't taste old...,bart,cot,trustworthy
+Good in general. Quality for Kızılay and its surroundings. Lahmacun doesn't taste old...,t5_base,direct,trustworthy
+Good in general. Quality for Kızılay and its surroundings. Lahmacun doesn't taste old...,t5_base,few_shot,good
+Good in general. Quality for Kızılay and its surroundings. Lahmacun doesn't taste old...,t5_base,cot,good
+Good in general. Quality for Kızılay and its surroundings. Lahmacun doesn't taste old...,t5_large,direct,trustworthy
+Good in general. Quality for Kızılay and its surroundings. Lahmacun doesn't taste old...,t5_large,few_shot,positive
+Good in general. Quality for Kızılay and its surroundings. Lahmacun doesn't taste old...,t5_large,cot,good
+My first stop for breakfast in Atakum is a place with quality service and friendly face.,bart,direct,trustworthy
+My first stop for breakfast in Atakum is a place with quality service and friendly face.,bart,few_shot,trustworthy
+My first stop for breakfast in Atakum is a place with quality service and friendly face.,bart,cot,trustworthy
+My first stop for breakfast in Atakum is a place with quality service and friendly face.,t5_base,direct,trustworthy
+My first stop for breakfast in Atakum is a place with quality service and friendly face.,t5_base,few_shot,excellent
+My first stop for breakfast in Atakum is a place with quality service and friendly face.,t5_base,cot,trustworthy
+My first stop for breakfast in Atakum is a place with quality service and friendly face.,t5_large,direct,trustworthy
+My first stop for breakfast in Atakum is a place with quality service and friendly face.,t5_large,few_shot,trustworthy
+My first stop for breakfast in Atakum is a place with quality service and friendly face.,t5_large,cot,trustworthy
+Place was not clear.,bart,direct,rant
+Place was not clear.,bart,few_shot,rant
+Place was not clear.,bart,cot,rant
+Place was not clear.,t5_base,direct,irrelevant
+Place was not clear.,t5_base,few_shot,not clear
+Place was not clear.,t5_base,cot,not clear
+Place was not clear.,t5_large,direct,[advertising]
+Place was not clear.,t5_large,few_shot,rant
+Place was not clear.,t5_large,cot,advertisement
+DEFINITELY DO NOT COME. We came here for breakfast based on the reviews on the way. We said the breakfast called the village breakfast for 2 people. First of all; the employee greeted us disrespectfully; a thousand pieces falling off his face; reluctant movements etc. It didn't taste good either!,bart,direct,rant
+DEFINITELY DO NOT COME. We came here for breakfast based on the reviews on the way. We said the breakfast called the village breakfast for 2 people. First of all; the employee greeted us disrespectfully; a thousand pieces falling off his face; reluctant movements etc. It didn't taste good either!,bart,few_shot,rant
+DEFINITELY DO NOT COME. We came here for breakfast based on the reviews on the way. We said the breakfast called the village breakfast for 2 people. First of all; the employee greeted us disrespectfully; a thousand pieces falling off his face; reluctant movements etc. It didn't taste good either!,bart,cot,rant
+DEFINITELY DO NOT COME. We came here for breakfast based on the reviews on the way. We said the breakfast called the village breakfast for 2 people. First of all; the employee greeted us disrespectfully; a thousand pieces falling off his face; reluctant movements etc. It didn't taste good either!,t5_base,direct,rant
+DEFINITELY DO NOT COME. We came here for breakfast based on the reviews on the way. We said the breakfast called the village breakfast for 2 people. First of all; the employee greeted us disrespectfully; a thousand pieces falling off his face; reluctant movements etc. It didn't taste good either!,t5_base,few_shot,terrible
+DEFINITELY DO NOT COME. We came here for breakfast based on the reviews on the way. We said the breakfast called the village breakfast for 2 people. First of all; the employee greeted us disrespectfully; a thousand pieces falling off his face; reluctant movements etc. It didn't taste good either!,t5_base,cot,do not come
+DEFINITELY DO NOT COME. We came here for breakfast based on the reviews on the way. We said the breakfast called the village breakfast for 2 people. First of all; the employee greeted us disrespectfully; a thousand pieces falling off his face; reluctant movements etc. It didn't taste good either!,t5_large,direct,[rant]
+DEFINITELY DO NOT COME. We came here for breakfast based on the reviews on the way. We said the breakfast called the village breakfast for 2 people. First of all; the employee greeted us disrespectfully; a thousand pieces falling off his face; reluctant movements etc. It didn't taste good either!,t5_large,few_shot,do not come
+DEFINITELY DO NOT COME. We came here for breakfast based on the reviews on the way. We said the breakfast called the village breakfast for 2 people. First of all; the employee greeted us disrespectfully; a thousand pieces falling off his face; reluctant movements etc. It didn't taste good either!,t5_large,cot,do not come
+The attitude of the waiters towards the customer was cold.,bart,direct,rant
+The attitude of the waiters towards the customer was cold.,bart,few_shot,rant
+The attitude of the waiters towards the customer was cold.,bart,cot,rant
+The attitude of the waiters towards the customer was cold.,t5_base,direct,irrelevant
+The attitude of the waiters towards the customer was cold.,t5_base,few_shot,bad
+The attitude of the waiters towards the customer was cold.,t5_base,cot,a rant
+The attitude of the waiters towards the customer was cold.,t5_large,direct,trustworthy
+The attitude of the waiters towards the customer was cold.,t5_large,few_shot,negative
+The attitude of the waiters towards the customer was cold.,t5_large,cot,trustworthy
+The menu content is beautifully varied and satisfying.,bart,direct,trustworthy
+The menu content is beautifully varied and satisfying.,bart,few_shot,trustworthy
+The menu content is beautifully varied and satisfying.,bart,cot,trustworthy
+The menu content is beautifully varied and satisfying.,t5_base,direct,trustworthy
+The menu content is beautifully varied and satisfying.,t5_base,few_shot,great food
+The menu content is beautifully varied and satisfying.,t5_base,cot,excellent
+The menu content is beautifully varied and satisfying.,t5_large,direct,trustworthy
+The menu content is beautifully varied and satisfying.,t5_large,few_shot,trustworthy
+The menu content is beautifully varied and satisfying.,t5_large,cot,trustworthy
+I ate a lot of croissants; but this was the best quality beautiful croissant I've ever eaten in my life. Crispy on the outside; with lots of butter on the inside; the smell was amazing.,bart,direct,trustworthy
+I ate a lot of croissants; but this was the best quality beautiful croissant I've ever eaten in my life. Crispy on the outside; with lots of butter on the inside; the smell was amazing.,bart,few_shot,trustworthy
+I ate a lot of croissants; but this was the best quality beautiful croissant I've ever eaten in my life. Crispy on the outside; with lots of butter on the inside; the smell was amazing.,bart,cot,trustworthy
+I ate a lot of croissants; but this was the best quality beautiful croissant I've ever eaten in my life. Crispy on the outside; with lots of butter on the inside; the smell was amazing.,t5_base,direct,trustworthy
+I ate a lot of croissants; but this was the best quality beautiful croissant I've ever eaten in my life. Crispy on the outside; with lots of butter on the inside; the smell was amazing.,t5_base,few_shot,best quality
+I ate a lot of croissants; but this was the best quality beautiful croissant I've ever eaten in my life. Crispy on the outside; with lots of butter on the inside; the smell was amazing.,t5_base,cot,i've eaten a lot of croissants; but this was the best quality beautiful croissant i have ever eaten in my life. crispy on the outside; with lots of butter
+I ate a lot of croissants; but this was the best quality beautiful croissant I've ever eaten in my life. Crispy on the outside; with lots of butter on the inside; the smell was amazing.,t5_large,direct,trustworthy
+I ate a lot of croissants; but this was the best quality beautiful croissant I've ever eaten in my life. Crispy on the outside; with lots of butter on the inside; the smell was amazing.,t5_large,few_shot,trustworthy
+I ate a lot of croissants; but this was the best quality beautiful croissant I've ever eaten in my life. Crispy on the outside; with lots of butter on the inside; the smell was amazing.,t5_large,cot,trustworthy
+Good place. Meals were good. Service is also good. There is parking in front for cars.,bart,direct,trustworthy
+Good place. Meals were good. Service is also good. There is parking in front for cars.,bart,few_shot,trustworthy
+Good place. Meals were good. Service is also good. There is parking in front for cars.,bart,cot,trustworthy
+Good place. Meals were good. Service is also good. There is parking in front for cars.,t5_base,direct,trustworthy
+Good place. Meals were good. Service is also good. There is parking in front for cars.,t5_base,few_shot,good
+Good place. Meals were good. Service is also good. There is parking in front for cars.,t5_base,cot,good
+Good place. Meals were good. Service is also good. There is parking in front for cars.,t5_large,direct,trustworthy
+Good place. Meals were good. Service is also good. There is parking in front for cars.,t5_large,few_shot,positive
+Good place. Meals were good. Service is also good. There is parking in front for cars.,t5_large,cot,trustworthy
+The menu is incomplete; not much; usually a disaster with happy sweet toys; felt-tip pens and a few cardboard coloring pages.,bart,direct,rant
+The menu is incomplete; not much; usually a disaster with happy sweet toys; felt-tip pens and a few cardboard coloring pages.,bart,few_shot,rant
+The menu is incomplete; not much; usually a disaster with happy sweet toys; felt-tip pens and a few cardboard coloring pages.,bart,cot,rant
+The menu is incomplete; not much; usually a disaster with happy sweet toys; felt-tip pens and a few cardboard coloring pages.,t5_base,direct,advertisement
+The menu is incomplete; not much; usually a disaster with happy sweet toys; felt-tip pens and a few cardboard coloring pages.,t5_base,few_shot,not much
+The menu is incomplete; not much; usually a disaster with happy sweet toys; felt-tip pens and a few cardboard coloring pages.,t5_base,cot,a rant
+The menu is incomplete; not much; usually a disaster with happy sweet toys; felt-tip pens and a few cardboard coloring pages.,t5_large,direct,[advertising]
+The menu is incomplete; not much; usually a disaster with happy sweet toys; felt-tip pens and a few cardboard coloring pages.,t5_large,few_shot,unsatisfying
+The menu is incomplete; not much; usually a disaster with happy sweet toys; felt-tip pens and a few cardboard coloring pages.,t5_large,cot,trustworthy
+Best pizza in the area; very crowded in weekends.,bart,direct,uncertain
+Best pizza in the area; very crowded in weekends.,bart,few_shot,uncertain
+Best pizza in the area; very crowded in weekends.,bart,cot,uncertain
+Best pizza in the area; very crowded in weekends.,t5_base,direct,trustworthy
+Best pizza in the area; very crowded in weekends.,t5_base,few_shot,best pizza in the area
+Best pizza in the area; very crowded in weekends.,t5_base,cot,i'm a fan!
+Best pizza in the area; very crowded in weekends.,t5_large,direct,trustworthy
+Best pizza in the area; very crowded in weekends.,t5_large,few_shot,trustworthy
+Best pizza in the area; very crowded in weekends.,t5_large,cot,trustworthy
+They have a problem with the service; but if you're going to drink tea; they do it well. Your tea is always hot over the fire.,bart,direct,uncertain
+They have a problem with the service; but if you're going to drink tea; they do it well. Your tea is always hot over the fire.,bart,few_shot,uncertain
+They have a problem with the service; but if you're going to drink tea; they do it well. Your tea is always hot over the fire.,bart,cot,uncertain
+They have a problem with the service; but if you're going to drink tea; they do it well. Your tea is always hot over the fire.,t5_base,direct,trustworthy
+They have a problem with the service; but if you're going to drink tea; they do it well. Your tea is always hot over the fire.,t5_base,few_shot,good
+They have a problem with the service; but if you're going to drink tea; they do it well. Your tea is always hot over the fire.,t5_base,cot,if you're going to drink tea; they do it well. your tea is always hot over the fire
+They have a problem with the service; but if you're going to drink tea; they do it well. Your tea is always hot over the fire.,t5_large,direct,trustworthy
+They have a problem with the service; but if you're going to drink tea; they do it well. Your tea is always hot over the fire.,t5_large,few_shot,acceptable
+They have a problem with the service; but if you're going to drink tea; they do it well. Your tea is always hot over the fire.,t5_large,cot,trustworthy
+I ate the best dove I've ever eaten here. Everyone should come!!,bart,direct,trustworthy
+I ate the best dove I've ever eaten here. Everyone should come!!,bart,few_shot,trustworthy
+I ate the best dove I've ever eaten here. Everyone should come!!,bart,cot,trustworthy
+I ate the best dove I've ever eaten here. Everyone should come!!,t5_base,direct,trustworthy
+I ate the best dove I've ever eaten here. Everyone should come!!,t5_base,few_shot,best pizza in town
+I ate the best dove I've ever eaten here. Everyone should come!!,t5_base,cot,best dove i've ever eaten
+I ate the best dove I've ever eaten here. Everyone should come!!,t5_large,direct,trustworthy
+I ate the best dove I've ever eaten here. Everyone should come!!,t5_large,few_shot,trustworthy
+I ate the best dove I've ever eaten here. Everyone should come!!,t5_large,cot,trustworthy
+We went for both breakfast and dinner. First of all; it has a very nice environment. When we went for breakfast; we sat inside and one can sit for hours. Its decoration; quiet and nice; being in the trees is very nice. Especially having an open kitchen adds a positive score to the customer.,bart,direct,trustworthy
+We went for both breakfast and dinner. First of all; it has a very nice environment. When we went for breakfast; we sat inside and one can sit for hours. Its decoration; quiet and nice; being in the trees is very nice. Especially having an open kitchen adds a positive score to the customer.,bart,few_shot,trustworthy
+We went for both breakfast and dinner. First of all; it has a very nice environment. When we went for breakfast; we sat inside and one can sit for hours. Its decoration; quiet and nice; being in the trees is very nice. Especially having an open kitchen adds a positive score to the customer.,bart,cot,trustworthy
+We went for both breakfast and dinner. First of all; it has a very nice environment. When we went for breakfast; we sat inside and one can sit for hours. Its decoration; quiet and nice; being in the trees is very nice. Especially having an open kitchen adds a positive score to the customer.,t5_base,direct,trustworthy
+We went for both breakfast and dinner. First of all; it has a very nice environment. When we went for breakfast; we sat inside and one can sit for hours. Its decoration; quiet and nice; being in the trees is very nice. Especially having an open kitchen adds a positive score to the customer.,t5_base,few_shot,nice
+We went for both breakfast and dinner. First of all; it has a very nice environment. When we went for breakfast; we sat inside and one can sit for hours. Its decoration; quiet and nice; being in the trees is very nice. Especially having an open kitchen adds a positive score to the customer.,t5_base,cot,good
+We went for both breakfast and dinner. First of all; it has a very nice environment. When we went for breakfast; we sat inside and one can sit for hours. Its decoration; quiet and nice; being in the trees is very nice. Especially having an open kitchen adds a positive score to the customer.,t5_large,direct,trustworthy
+We went for both breakfast and dinner. First of all; it has a very nice environment. When we went for breakfast; we sat inside and one can sit for hours. Its decoration; quiet and nice; being in the trees is very nice. Especially having an open kitchen adds a positive score to the customer.,t5_large,few_shot,positive
+We went for both breakfast and dinner. First of all; it has a very nice environment. When we went for breakfast; we sat inside and one can sit for hours. Its decoration; quiet and nice; being in the trees is very nice. Especially having an open kitchen adds a positive score to the customer.,t5_large,cot,trustworthy
+Seaside; pleasant place; mediocre food; owners concerned.,bart,direct,uncertain
+Seaside; pleasant place; mediocre food; owners concerned.,bart,few_shot,uncertain
+Seaside; pleasant place; mediocre food; owners concerned.,bart,cot,uncertain
+Seaside; pleasant place; mediocre food; owners concerned.,t5_base,direct,advertisement
+Seaside; pleasant place; mediocre food; owners concerned.,t5_base,few_shot,mediocre food
+Seaside; pleasant place; mediocre food; owners concerned.,t5_base,cot,a rant
+Seaside; pleasant place; mediocre food; owners concerned.,t5_large,direct,[advertising]
+Seaside; pleasant place; mediocre food; owners concerned.,t5_large,few_shot,seaside
+Seaside; pleasant place; mediocre food; owners concerned.,t5_large,cot,ad
+Bread; cheese; sausage all left incredible flavors on our palate. We recommend it to everyone who will go to Ayvalık.,bart,direct,trustworthy
+Bread; cheese; sausage all left incredible flavors on our palate. We recommend it to everyone who will go to Ayvalık.,bart,few_shot,trustworthy
+Bread; cheese; sausage all left incredible flavors on our palate. We recommend it to everyone who will go to Ayvalık.,bart,cot,trustworthy
+Bread; cheese; sausage all left incredible flavors on our palate. We recommend it to everyone who will go to Ayvalık.,t5_base,direct,trustworthy
+Bread; cheese; sausage all left incredible flavors on our palate. We recommend it to everyone who will go to Ayvalık.,t5_base,few_shot,best pizza in town
+Bread; cheese; sausage all left incredible flavors on our palate. We recommend it to everyone who will go to Ayvalık.,t5_base,cot,excellent
+Bread; cheese; sausage all left incredible flavors on our palate. We recommend it to everyone who will go to Ayvalık.,t5_large,direct,trustworthy
+Bread; cheese; sausage all left incredible flavors on our palate. We recommend it to everyone who will go to Ayvalık.,t5_large,few_shot,trustworthy
+Bread; cheese; sausage all left incredible flavors on our palate. We recommend it to everyone who will go to Ayvalık.,t5_large,cot,trustworthy
+Very good quality and expensive also always crowded.,bart,direct,uncertain
+Very good quality and expensive also always crowded.,bart,few_shot,uncertain
+Very good quality and expensive also always crowded.,bart,cot,uncertain
+Very good quality and expensive also always crowded.,t5_base,direct,advertisement
+Very good quality and expensive also always crowded.,t5_base,few_shot,good
+Very good quality and expensive also always crowded.,t5_base,cot,ad
+Very good quality and expensive also always crowded.,t5_large,direct,trustworthy
+Very good quality and expensive also always crowded.,t5_large,few_shot,trustworthy
+Very good quality and expensive also always crowded.,t5_large,cot,trustworthy
+They used to taste better; the chef must have changed.,bart,direct,rant
+They used to taste better; the chef must have changed.,bart,few_shot,rant
+They used to taste better; the chef must have changed.,bart,cot,rant
+They used to taste better; the chef must have changed.,t5_base,direct,trustworthy
+They used to taste better; the chef must have changed.,t5_base,few_shot,bad
+They used to taste better; the chef must have changed.,t5_base,cot,a rant
+They used to taste better; the chef must have changed.,t5_large,direct,trustworthy
+They used to taste better; the chef must have changed.,t5_large,few_shot,relevant
+They used to taste better; the chef must have changed.,t5_large,cot,trustworthy
+Waiters didn't pay attention to me.,bart,direct,rant
+Waiters didn't pay attention to me.,bart,few_shot,rant
+Waiters didn't pay attention to me.,bart,cot,rant
+Waiters didn't pay attention to me.,t5_base,direct,unprofessional
+Waiters didn't pay attention to me.,t5_base,few_shot,waiters didn't pay attention
+Waiters didn't pay attention to me.,t5_base,cot,a rant
+Waiters didn't pay attention to me.,t5_large,direct,[rant]
+Waiters didn't pay attention to me.,t5_large,few_shot,bad
+Waiters didn't pay attention to me.,t5_large,cot,trustworthy
+You can't get enough of the thin pizza dough. Overcrowded employees are very concerned. We ate pizza at Mia highly recommend.,bart,direct,trustworthy
+You can't get enough of the thin pizza dough. Overcrowded employees are very concerned. We ate pizza at Mia highly recommend.,bart,few_shot,trustworthy
+You can't get enough of the thin pizza dough. Overcrowded employees are very concerned. We ate pizza at Mia highly recommend.,bart,cot,trustworthy
+You can't get enough of the thin pizza dough. Overcrowded employees are very concerned. We ate pizza at Mia highly recommend.,t5_base,direct,trustworthy
+You can't get enough of the thin pizza dough. Overcrowded employees are very concerned. We ate pizza at Mia highly recommend.,t5_base,few_shot,best pizza in town
+You can't get enough of the thin pizza dough. Overcrowded employees are very concerned. We ate pizza at Mia highly recommend.,t5_base,cot,a rant
+You can't get enough of the thin pizza dough. Overcrowded employees are very concerned. We ate pizza at Mia highly recommend.,t5_large,direct,trustworthy
+You can't get enough of the thin pizza dough. Overcrowded employees are very concerned. We ate pizza at Mia highly recommend.,t5_large,few_shot,trustworthy
+You can't get enough of the thin pizza dough. Overcrowded employees are very concerned. We ate pizza at Mia highly recommend.,t5_large,cot,trustworthy
+Iskender is very delicious; you can optionally pour butter; what is interesting to me is that there are no treats.,bart,direct,uncertain
+Iskender is very delicious; you can optionally pour butter; what is interesting to me is that there are no treats.,bart,few_shot,uncertain
+Iskender is very delicious; you can optionally pour butter; what is interesting to me is that there are no treats.,bart,cot,uncertain
+Iskender is very delicious; you can optionally pour butter; what is interesting to me is that there are no treats.,t5_base,direct,advertisement
+Iskender is very delicious; you can optionally pour butter; what is interesting to me is that there are no treats.,t5_base,few_shot,iskender
+Iskender is very delicious; you can optionally pour butter; what is interesting to me is that there are no treats.,t5_base,cot,iskender
+Iskender is very delicious; you can optionally pour butter; what is interesting to me is that there are no treats.,t5_large,direct,trustworthy
+Iskender is very delicious; you can optionally pour butter; what is interesting to me is that there are no treats.,t5_large,few_shot,trustworthy
+Iskender is very delicious; you can optionally pour butter; what is interesting to me is that there are no treats.,t5_large,cot,trustworthy
+We paid 150 TL for 2 toast and 2 ayran. The only address of Ayvalık Toast. There are many queues; but the queue moves very quickly. Worth the wait.,bart,direct,trustworthy
+We paid 150 TL for 2 toast and 2 ayran. The only address of Ayvalık Toast. There are many queues; but the queue moves very quickly. Worth the wait.,bart,few_shot,trustworthy
+We paid 150 TL for 2 toast and 2 ayran. The only address of Ayvalık Toast. There are many queues; but the queue moves very quickly. Worth the wait.,bart,cot,trustworthy
+We paid 150 TL for 2 toast and 2 ayran. The only address of Ayvalık Toast. There are many queues; but the queue moves very quickly. Worth the wait.,t5_base,direct,trustworthy
+We paid 150 TL for 2 toast and 2 ayran. The only address of Ayvalık Toast. There are many queues; but the queue moves very quickly. Worth the wait.,t5_base,few_shot,good
+We paid 150 TL for 2 toast and 2 ayran. The only address of Ayvalık Toast. There are many queues; but the queue moves very quickly. Worth the wait.,t5_base,cot,ayvalk toast
+We paid 150 TL for 2 toast and 2 ayran. The only address of Ayvalık Toast. There are many queues; but the queue moves very quickly. Worth the wait.,t5_large,direct,trustworthy
+We paid 150 TL for 2 toast and 2 ayran. The only address of Ayvalık Toast. There are many queues; but the queue moves very quickly. Worth the wait.,t5_large,few_shot,trustworthy
+We paid 150 TL for 2 toast and 2 ayran. The only address of Ayvalık Toast. There are many queues; but the queue moves very quickly. Worth the wait.,t5_large,cot,trustworthy
+The waiters are scruffy so we didn't feel comfortable eating. The hygiene of the place was also bad.,bart,direct,rant
+The waiters are scruffy so we didn't feel comfortable eating. The hygiene of the place was also bad.,bart,few_shot,rant
+The waiters are scruffy so we didn't feel comfortable eating. The hygiene of the place was also bad.,bart,cot,rant
+The waiters are scruffy so we didn't feel comfortable eating. The hygiene of the place was also bad.,t5_base,direct,unacceptable
+The waiters are scruffy so we didn't feel comfortable eating. The hygiene of the place was also bad.,t5_base,few_shot,bad
+The waiters are scruffy so we didn't feel comfortable eating. The hygiene of the place was also bad.,t5_base,cot,a rant
+The waiters are scruffy so we didn't feel comfortable eating. The hygiene of the place was also bad.,t5_large,direct,[rant]
+The waiters are scruffy so we didn't feel comfortable eating. The hygiene of the place was also bad.,t5_large,few_shot,bad
+The waiters are scruffy so we didn't feel comfortable eating. The hygiene of the place was also bad.,t5_large,cot,racial
+The address of quality. The service should be a little faster.,bart,direct,trustworthy
+The address of quality. The service should be a little faster.,bart,few_shot,trustworthy
+The address of quality. The service should be a little faster.,bart,cot,trustworthy
+The address of quality. The service should be a little faster.,t5_base,direct,trustworthy
+The address of quality. The service should be a little faster.,t5_base,few_shot,quality
+The address of quality. The service should be a little faster.,t5_base,cot,a little faster
+The address of quality. The service should be a little faster.,t5_large,direct,trustworthy
+The address of quality. The service should be a little faster.,t5_large,few_shot,trustworthy
+The address of quality. The service should be a little faster.,t5_large,cot,trustworthy
+Unnecessarily expensive; the Arab is addressing the tourist. good taste.,bart,direct,uncertain
+Unnecessarily expensive; the Arab is addressing the tourist. good taste.,bart,few_shot,uncertain
+Unnecessarily expensive; the Arab is addressing the tourist. good taste.,bart,cot,uncertain
+Unnecessarily expensive; the Arab is addressing the tourist. good taste.,t5_base,direct,advertisement
+Unnecessarily expensive; the Arab is addressing the tourist. good taste.,t5_base,few_shot,unnecessarily expensive; the arab is addressing the tourist.
+Unnecessarily expensive; the Arab is addressing the tourist. good taste.,t5_base,cot,advertisement
+Unnecessarily expensive; the Arab is addressing the tourist. good taste.,t5_large,direct,[advertising]
+Unnecessarily expensive; the Arab is addressing the tourist. good taste.,t5_large,few_shot,untruthful
+Unnecessarily expensive; the Arab is addressing the tourist. good taste.,t5_large,cot,untruthful
+It is a place that can be preferred for taste; but the appetizer variety is very weak. The toilets smelled.,bart,direct,trustworthy
+It is a place that can be preferred for taste; but the appetizer variety is very weak. The toilets smelled.,bart,few_shot,trustworthy
+It is a place that can be preferred for taste; but the appetizer variety is very weak. The toilets smelled.,bart,cot,trustworthy
+It is a place that can be preferred for taste; but the appetizer variety is very weak. The toilets smelled.,t5_base,direct,advertisement
+It is a place that can be preferred for taste; but the appetizer variety is very weak. The toilets smelled.,t5_base,few_shot,bad
+It is a place that can be preferred for taste; but the appetizer variety is very weak. The toilets smelled.,t5_base,cot,unacceptable
+It is a place that can be preferred for taste; but the appetizer variety is very weak. The toilets smelled.,t5_large,direct,trustworthy
+It is a place that can be preferred for taste; but the appetizer variety is very weak. The toilets smelled.,t5_large,few_shot,relevant
+It is a place that can be preferred for taste; but the appetizer variety is very weak. The toilets smelled.,t5_large,cot,trustworthy
+It is not p/p. Doner came cold and that's why it was hard.,bart,direct,rant
+It is not p/p. Doner came cold and that's why it was hard.,bart,few_shot,rant
+It is not p/p. Doner came cold and that's why it was hard.,bart,cot,rant
+It is not p/p. Doner came cold and that's why it was hard.,t5_base,direct,irrelevant
+It is not p/p. Doner came cold and that's why it was hard.,t5_base,few_shot,not p/p
+It is not p/p. Doner came cold and that's why it was hard.,t5_base,cot,not p/p
+It is not p/p. Doner came cold and that's why it was hard.,t5_large,direct,[untruthful]
+It is not p/p. Doner came cold and that's why it was hard.,t5_large,few_shot,not p/p
+It is not p/p. Doner came cold and that's why it was hard.,t5_large,cot,not p/p
+Expensive place.,bart,direct,rant
+Expensive place.,bart,few_shot,rant
+Expensive place.,bart,cot,rant
+Expensive place.,t5_base,direct,advertisement
+Expensive place.,t5_base,few_shot,expensive
+Expensive place.,t5_base,cot,advertisement
+Expensive place.,t5_large,direct,advertisement
+Expensive place.,t5_large,few_shot,honest
+Expensive place.,t5_large,cot,ad
+In terms of taste; I can't say it's too good because we drink much better ones. As a business performance; even bread is sold for money alongside soup.,bart,direct,uncertain
+In terms of taste; I can't say it's too good because we drink much better ones. As a business performance; even bread is sold for money alongside soup.,bart,few_shot,uncertain
+In terms of taste; I can't say it's too good because we drink much better ones. As a business performance; even bread is sold for money alongside soup.,bart,cot,uncertain
+In terms of taste; I can't say it's too good because we drink much better ones. As a business performance; even bread is sold for money alongside soup.,t5_base,direct,advertisement
+In terms of taste; I can't say it's too good because we drink much better ones. As a business performance; even bread is sold for money alongside soup.,t5_base,few_shot,bad
+In terms of taste; I can't say it's too good because we drink much better ones. As a business performance; even bread is sold for money alongside soup.,t5_base,cot,advertisement
+In terms of taste; I can't say it's too good because we drink much better ones. As a business performance; even bread is sold for money alongside soup.,t5_large,direct,advertisement
+In terms of taste; I can't say it's too good because we drink much better ones. As a business performance; even bread is sold for money alongside soup.,t5_large,few_shot,relevant
+In terms of taste; I can't say it's too good because we drink much better ones. As a business performance; even bread is sold for money alongside soup.,t5_large,cot,advertisement
+"They have very delicious meat; especially tiny lahmacun, super appetizers; delicious food here. The food is very nice. The workers can be a little more interested. They are very interested in Arab customers. They don't care about us. This situation makes us sad.",bart,direct,uncertain
+"They have very delicious meat; especially tiny lahmacun, super appetizers; delicious food here. The food is very nice. The workers can be a little more interested. They are very interested in Arab customers. They don't care about us. This situation makes us sad.",bart,few_shot,uncertain
+"They have very delicious meat; especially tiny lahmacun, super appetizers; delicious food here. The food is very nice. The workers can be a little more interested. They are very interested in Arab customers. They don't care about us. This situation makes us sad.",bart,cot,uncertain
+"They have very delicious meat; especially tiny lahmacun, super appetizers; delicious food here. The food is very nice. The workers can be a little more interested. They are very interested in Arab customers. They don't care about us. This situation makes us sad.",t5_base,direct,trustworthy
+"They have very delicious meat; especially tiny lahmacun, super appetizers; delicious food here. The food is very nice. The workers can be a little more interested. They are very interested in Arab customers. They don't care about us. This situation makes us sad.",t5_base,few_shot,good
+"They have very delicious meat; especially tiny lahmacun, super appetizers; delicious food here. The food is very nice. The workers can be a little more interested. They are very interested in Arab customers. They don't care about us. This situation makes us sad.",t5_base,cot,advertisement
+"They have very delicious meat; especially tiny lahmacun, super appetizers; delicious food here. The food is very nice. The workers can be a little more interested. They are very interested in Arab customers. They don't care about us. This situation makes us sad.",t5_large,direct,trustworthy
+"They have very delicious meat; especially tiny lahmacun, super appetizers; delicious food here. The food is very nice. The workers can be a little more interested. They are very interested in Arab customers. They don't care about us. This situation makes us sad.",t5_large,few_shot,positive
+"They have very delicious meat; especially tiny lahmacun, super appetizers; delicious food here. The food is very nice. The workers can be a little more interested. They are very interested in Arab customers. They don't care about us. This situation makes us sad.",t5_large,cot,trustworthy
+Excellent pizza and fine wine. Both food and beverage portions are large. I recommend.,bart,direct,trustworthy
+Excellent pizza and fine wine. Both food and beverage portions are large. I recommend.,bart,few_shot,trustworthy
+Excellent pizza and fine wine. Both food and beverage portions are large. I recommend.,bart,cot,trustworthy
+Excellent pizza and fine wine. Both food and beverage portions are large. I recommend.,t5_base,direct,trustworthy
+Excellent pizza and fine wine. Both food and beverage portions are large. I recommend.,t5_base,few_shot,great food and wine
+Excellent pizza and fine wine. Both food and beverage portions are large. I recommend.,t5_base,cot,excellent
+Excellent pizza and fine wine. Both food and beverage portions are large. I recommend.,t5_large,direct,trustworthy
+Excellent pizza and fine wine. Both food and beverage portions are large. I recommend.,t5_large,few_shot,trustworthy
+Excellent pizza and fine wine. Both food and beverage portions are large. I recommend.,t5_large,cot,trustworthy
+Great patso!,bart,direct,trustworthy
+Great patso!,bart,few_shot,trustworthy
+Great patso!,bart,cot,trustworthy
+Great patso!,t5_base,direct,trustworthy
+Great patso!,t5_base,few_shot,great patso
+Great patso!,t5_base,cot,good
+Great patso!,t5_large,direct,trustworthy
+Great patso!,t5_large,few_shot,trustworthy
+Great patso!,t5_large,cot,trustworthy
+If you come to Kaş and do not eat bunbun here; you are not considered to have come to Kaş. I would definitely recommend you to try it. Especially the ayran is wonderful.,bart,direct,uncertain
+If you come to Kaş and do not eat bunbun here; you are not considered to have come to Kaş. I would definitely recommend you to try it. Especially the ayran is wonderful.,bart,few_shot,uncertain
+If you come to Kaş and do not eat bunbun here; you are not considered to have come to Kaş. I would definitely recommend you to try it. Especially the ayran is wonderful.,bart,cot,uncertain
+If you come to Kaş and do not eat bunbun here; you are not considered to have come to Kaş. I would definitely recommend you to try it. Especially the ayran is wonderful.,t5_base,direct,trustworthy
+If you come to Kaş and do not eat bunbun here; you are not considered to have come to Kaş. I would definitely recommend you to try it. Especially the ayran is wonderful.,t5_base,few_shot,best pizza in town
+If you come to Kaş and do not eat bunbun here; you are not considered to have come to Kaş. I would definitely recommend you to try it. Especially the ayran is wonderful.,t5_base,cot,i would definitely recommend you to try it. especially the ayran is wonderful
+If you come to Kaş and do not eat bunbun here; you are not considered to have come to Kaş. I would definitely recommend you to try it. Especially the ayran is wonderful.,t5_large,direct,trustworthy
+If you come to Kaş and do not eat bunbun here; you are not considered to have come to Kaş. I would definitely recommend you to try it. Especially the ayran is wonderful.,t5_large,few_shot,reliable
+If you come to Kaş and do not eat bunbun here; you are not considered to have come to Kaş. I would definitely recommend you to try it. Especially the ayran is wonderful.,t5_large,cot,trustworthy
+It gets very crowded because it's the weekend; we have to go a little early; you may not find a place to eat something,bart,direct,uncertain
+It gets very crowded because it's the weekend; we have to go a little early; you may not find a place to eat something,bart,few_shot,uncertain
+It gets very crowded because it's the weekend; we have to go a little early; you may not find a place to eat something,bart,cot,uncertain
+It gets very crowded because it's the weekend; we have to go a little early; you may not find a place to eat something,t5_base,direct,advertisement
+It gets very crowded because it's the weekend; we have to go a little early; you may not find a place to eat something,t5_base,few_shot,bad
+It gets very crowded because it's the weekend; we have to go a little early; you may not find a place to eat something,t5_base,cot,a rant
+It gets very crowded because it's the weekend; we have to go a little early; you may not find a place to eat something,t5_large,direct,trustworthy
+It gets very crowded because it's the weekend; we have to go a little early; you may not find a place to eat something,t5_large,few_shot,bad
+It gets very crowded because it's the weekend; we have to go a little early; you may not find a place to eat something,t5_large,cot,trustworthy
+Definitely a good tripe soup; but I've had much better ones. Very clean place; prices are a bit expensive.,bart,direct,uncertain
+Definitely a good tripe soup; but I've had much better ones. Very clean place; prices are a bit expensive.,bart,few_shot,uncertain
+Definitely a good tripe soup; but I've had much better ones. Very clean place; prices are a bit expensive.,bart,cot,uncertain
+Definitely a good tripe soup; but I've had much better ones. Very clean place; prices are a bit expensive.,t5_base,direct,trustworthy
+Definitely a good tripe soup; but I've had much better ones. Very clean place; prices are a bit expensive.,t5_base,few_shot,good
+Definitely a good tripe soup; but I've had much better ones. Very clean place; prices are a bit expensive.,t5_base,cot,trustworthy
+Definitely a good tripe soup; but I've had much better ones. Very clean place; prices are a bit expensive.,t5_large,direct,trustworthy
+Definitely a good tripe soup; but I've had much better ones. Very clean place; prices are a bit expensive.,t5_large,few_shot,relevant
+Definitely a good tripe soup; but I've had much better ones. Very clean place; prices are a bit expensive.,t5_large,cot,trustworthy
+I definitely come here every time I come; I like both breakfast and evening meals; but prices have increased a lot from last year to this year.,bart,direct,uncertain
+I definitely come here every time I come; I like both breakfast and evening meals; but prices have increased a lot from last year to this year.,bart,few_shot,uncertain
+I definitely come here every time I come; I like both breakfast and evening meals; but prices have increased a lot from last year to this year.,bart,cot,uncertain
+I definitely come here every time I come; I like both breakfast and evening meals; but prices have increased a lot from last year to this year.,t5_base,direct,trustworthy
+I definitely come here every time I come; I like both breakfast and evening meals; but prices have increased a lot from last year to this year.,t5_base,few_shot,good
+I definitely come here every time I come; I like both breakfast and evening meals; but prices have increased a lot from last year to this year.,t5_base,cot,advertisement
+I definitely come here every time I come; I like both breakfast and evening meals; but prices have increased a lot from last year to this year.,t5_large,direct,trustworthy
+I definitely come here every time I come; I like both breakfast and evening meals; but prices have increased a lot from last year to this year.,t5_large,few_shot,trustworthy
+I definitely come here every time I come; I like both breakfast and evening meals; but prices have increased a lot from last year to this year.,t5_large,cot,trustworthy
+It's a very small and elegant place; its decor attracted me as I passed by. This cafe specializes in souffles of various flavors and the service they have is excellent and the staff are welcoming and cheerful.,bart,direct,trustworthy
+It's a very small and elegant place; its decor attracted me as I passed by. This cafe specializes in souffles of various flavors and the service they have is excellent and the staff are welcoming and cheerful.,bart,few_shot,trustworthy
+It's a very small and elegant place; its decor attracted me as I passed by. This cafe specializes in souffles of various flavors and the service they have is excellent and the staff are welcoming and cheerful.,bart,cot,trustworthy
+It's a very small and elegant place; its decor attracted me as I passed by. This cafe specializes in souffles of various flavors and the service they have is excellent and the staff are welcoming and cheerful.,t5_base,direct,trustworthy
+It's a very small and elegant place; its decor attracted me as I passed by. This cafe specializes in souffles of various flavors and the service they have is excellent and the staff are welcoming and cheerful.,t5_base,few_shot,excellent
+It's a very small and elegant place; its decor attracted me as I passed by. This cafe specializes in souffles of various flavors and the service they have is excellent and the staff are welcoming and cheerful.,t5_base,cot,excellent
+It's a very small and elegant place; its decor attracted me as I passed by. This cafe specializes in souffles of various flavors and the service they have is excellent and the staff are welcoming and cheerful.,t5_large,direct,trustworthy
+It's a very small and elegant place; its decor attracted me as I passed by. This cafe specializes in souffles of various flavors and the service they have is excellent and the staff are welcoming and cheerful.,t5_large,few_shot,positive
+It's a very small and elegant place; its decor attracted me as I passed by. This cafe specializes in souffles of various flavors and the service they have is excellent and the staff are welcoming and cheerful.,t5_large,cot,trustworthy
+Crispy and delicious toast.,bart,direct,trustworthy
+Crispy and delicious toast.,bart,few_shot,trustworthy
+Crispy and delicious toast.,bart,cot,trustworthy
+Crispy and delicious toast.,t5_base,direct,trustworthy
+Crispy and delicious toast.,t5_base,few_shot,excellent
+Crispy and delicious toast.,t5_base,cot,excellent
+Crispy and delicious toast.,t5_large,direct,trustworthy
+Crispy and delicious toast.,t5_large,few_shot,unreliable
+Crispy and delicious toast.,t5_large,cot,trustworthy
+It was very nice to be greeted with a smile when we first entered; we went with my wife; the services are very fast; the empty services are removed immediately; the washbasins were hygienic and clean; and I would recommend a very reasonable place.,bart,direct,trustworthy
+It was very nice to be greeted with a smile when we first entered; we went with my wife; the services are very fast; the empty services are removed immediately; the washbasins were hygienic and clean; and I would recommend a very reasonable place.,bart,few_shot,trustworthy
+It was very nice to be greeted with a smile when we first entered; we went with my wife; the services are very fast; the empty services are removed immediately; the washbasins were hygienic and clean; and I would recommend a very reasonable place.,bart,cot,trustworthy
+It was very nice to be greeted with a smile when we first entered; we went with my wife; the services are very fast; the empty services are removed immediately; the washbasins were hygienic and clean; and I would recommend a very reasonable place.,t5_base,direct,trustworthy
+It was very nice to be greeted with a smile when we first entered; we went with my wife; the services are very fast; the empty services are removed immediately; the washbasins were hygienic and clean; and I would recommend a very reasonable place.,t5_base,few_shot,excellent
+It was very nice to be greeted with a smile when we first entered; we went with my wife; the services are very fast; the empty services are removed immediately; the washbasins were hygienic and clean; and I would recommend a very reasonable place.,t5_base,cot,trustworthy
+It was very nice to be greeted with a smile when we first entered; we went with my wife; the services are very fast; the empty services are removed immediately; the washbasins were hygienic and clean; and I would recommend a very reasonable place.,t5_large,direct,trustworthy
+It was very nice to be greeted with a smile when we first entered; we went with my wife; the services are very fast; the empty services are removed immediately; the washbasins were hygienic and clean; and I would recommend a very reasonable place.,t5_large,few_shot,trustworthy
+It was very nice to be greeted with a smile when we first entered; we went with my wife; the services are very fast; the empty services are removed immediately; the washbasins were hygienic and clean; and I would recommend a very reasonable place.,t5_large,cot,trustworthy
+We went for dessert; but there are also food and breakfast options. It's not a huge venue and it gets pretty busy. We ate moblan; ibiza; strawberry puff pastry desserts. Moblan comes in huge portions. Desserts are very tasty and fresh.,bart,direct,trustworthy
+We went for dessert; but there are also food and breakfast options. It's not a huge venue and it gets pretty busy. We ate moblan; ibiza; strawberry puff pastry desserts. Moblan comes in huge portions. Desserts are very tasty and fresh.,bart,few_shot,trustworthy
+We went for dessert; but there are also food and breakfast options. It's not a huge venue and it gets pretty busy. We ate moblan; ibiza; strawberry puff pastry desserts. Moblan comes in huge portions. Desserts are very tasty and fresh.,bart,cot,trustworthy
+We went for dessert; but there are also food and breakfast options. It's not a huge venue and it gets pretty busy. We ate moblan; ibiza; strawberry puff pastry desserts. Moblan comes in huge portions. Desserts are very tasty and fresh.,t5_base,direct,trustworthy
+We went for dessert; but there are also food and breakfast options. It's not a huge venue and it gets pretty busy. We ate moblan; ibiza; strawberry puff pastry desserts. Moblan comes in huge portions. Desserts are very tasty and fresh.,t5_base,few_shot,delicious
+We went for dessert; but there are also food and breakfast options. It's not a huge venue and it gets pretty busy. We ate moblan; ibiza; strawberry puff pastry desserts. Moblan comes in huge portions. Desserts are very tasty and fresh.,t5_base,cot,trustworthy
+We went for dessert; but there are also food and breakfast options. It's not a huge venue and it gets pretty busy. We ate moblan; ibiza; strawberry puff pastry desserts. Moblan comes in huge portions. Desserts are very tasty and fresh.,t5_large,direct,trustworthy
+We went for dessert; but there are also food and breakfast options. It's not a huge venue and it gets pretty busy. We ate moblan; ibiza; strawberry puff pastry desserts. Moblan comes in huge portions. Desserts are very tasty and fresh.,t5_large,few_shot,food
+We went for dessert; but there are also food and breakfast options. It's not a huge venue and it gets pretty busy. We ate moblan; ibiza; strawberry puff pastry desserts. Moblan comes in huge portions. Desserts are very tasty and fresh.,t5_large,cot,trustworthy
+Excellent food and ambiance.,bart,direct,trustworthy
+Excellent food and ambiance.,bart,few_shot,trustworthy
+Excellent food and ambiance.,bart,cot,trustworthy
+Excellent food and ambiance.,t5_base,direct,trustworthy
+Excellent food and ambiance.,t5_base,few_shot,great food and ambiance
+Excellent food and ambiance.,t5_base,cot,excellent
+Excellent food and ambiance.,t5_large,direct,trustworthy
+Excellent food and ambiance.,t5_large,few_shot,trustworthy
+Excellent food and ambiance.,t5_large,cot,trustworthy
+Excellent. I recommend.,bart,direct,trustworthy
+Excellent. I recommend.,bart,few_shot,trustworthy
+Excellent. I recommend.,bart,cot,trustworthy
+Excellent. I recommend.,t5_base,direct,trustworthy
+Excellent. I recommend.,t5_base,few_shot,excellent
+Excellent. I recommend.,t5_base,cot,good
+Excellent. I recommend.,t5_large,direct,trustworthy
+Excellent. I recommend.,t5_large,few_shot,trustworthy
+Excellent. I recommend.,t5_large,cot,trustworthy
+We told the staff a very modest breakfast plate; there is unlimited tea; and the breakfast was really good. There was everything up to 4 kinds of cheese and it only cost 54 liras.,bart,direct,trustworthy
+We told the staff a very modest breakfast plate; there is unlimited tea; and the breakfast was really good. There was everything up to 4 kinds of cheese and it only cost 54 liras.,bart,few_shot,trustworthy
+We told the staff a very modest breakfast plate; there is unlimited tea; and the breakfast was really good. There was everything up to 4 kinds of cheese and it only cost 54 liras.,bart,cot,trustworthy
+We told the staff a very modest breakfast plate; there is unlimited tea; and the breakfast was really good. There was everything up to 4 kinds of cheese and it only cost 54 liras.,t5_base,direct,trustworthy
+We told the staff a very modest breakfast plate; there is unlimited tea; and the breakfast was really good. There was everything up to 4 kinds of cheese and it only cost 54 liras.,t5_base,few_shot,excellent
+We told the staff a very modest breakfast plate; there is unlimited tea; and the breakfast was really good. There was everything up to 4 kinds of cheese and it only cost 54 liras.,t5_base,cot,good
+We told the staff a very modest breakfast plate; there is unlimited tea; and the breakfast was really good. There was everything up to 4 kinds of cheese and it only cost 54 liras.,t5_large,direct,trustworthy
+We told the staff a very modest breakfast plate; there is unlimited tea; and the breakfast was really good. There was everything up to 4 kinds of cheese and it only cost 54 liras.,t5_large,few_shot,trustworthy
+We told the staff a very modest breakfast plate; there is unlimited tea; and the breakfast was really good. There was everything up to 4 kinds of cheese and it only cost 54 liras.,t5_large,cot,trustworthy
+Patso starts from 50tl. It comes with lots of potatoes in the bread wrapped in paper; dipped in ketchup or mayonnaise according to your needs. You have to eat standing up. It does not have a special flavor; but it is satisfying,bart,direct,rant
+Patso starts from 50tl. It comes with lots of potatoes in the bread wrapped in paper; dipped in ketchup or mayonnaise according to your needs. You have to eat standing up. It does not have a special flavor; but it is satisfying,bart,few_shot,rant
+Patso starts from 50tl. It comes with lots of potatoes in the bread wrapped in paper; dipped in ketchup or mayonnaise according to your needs. You have to eat standing up. It does not have a special flavor; but it is satisfying,bart,cot,rant
+Patso starts from 50tl. It comes with lots of potatoes in the bread wrapped in paper; dipped in ketchup or mayonnaise according to your needs. You have to eat standing up. It does not have a special flavor; but it is satisfying,t5_base,direct,advertisement
+Patso starts from 50tl. It comes with lots of potatoes in the bread wrapped in paper; dipped in ketchup or mayonnaise according to your needs. You have to eat standing up. It does not have a special flavor; but it is satisfying,t5_base,few_shot,good
+Patso starts from 50tl. It comes with lots of potatoes in the bread wrapped in paper; dipped in ketchup or mayonnaise according to your needs. You have to eat standing up. It does not have a special flavor; but it is satisfying,t5_base,cot,advertisement
+Patso starts from 50tl. It comes with lots of potatoes in the bread wrapped in paper; dipped in ketchup or mayonnaise according to your needs. You have to eat standing up. It does not have a special flavor; but it is satisfying,t5_large,direct,trustworthy
+Patso starts from 50tl. It comes with lots of potatoes in the bread wrapped in paper; dipped in ketchup or mayonnaise according to your needs. You have to eat standing up. It does not have a special flavor; but it is satisfying,t5_large,few_shot,food
+Patso starts from 50tl. It comes with lots of potatoes in the bread wrapped in paper; dipped in ketchup or mayonnaise according to your needs. You have to eat standing up. It does not have a special flavor; but it is satisfying,t5_large,cot,trustworthy
+A good kebab place. The meat is very good; tasty; the meat is well cooked. The treats are sufficient and tasty.,bart,direct,trustworthy
+A good kebab place. The meat is very good; tasty; the meat is well cooked. The treats are sufficient and tasty.,bart,few_shot,trustworthy
+A good kebab place. The meat is very good; tasty; the meat is well cooked. The treats are sufficient and tasty.,bart,cot,trustworthy
+A good kebab place. The meat is very good; tasty; the meat is well cooked. The treats are sufficient and tasty.,t5_base,direct,trustworthy
+A good kebab place. The meat is very good; tasty; the meat is well cooked. The treats are sufficient and tasty.,t5_base,few_shot,good
+A good kebab place. The meat is very good; tasty; the meat is well cooked. The treats are sufficient and tasty.,t5_base,cot,good
+A good kebab place. The meat is very good; tasty; the meat is well cooked. The treats are sufficient and tasty.,t5_large,direct,trustworthy
+A good kebab place. The meat is very good; tasty; the meat is well cooked. The treats are sufficient and tasty.,t5_large,few_shot,positive
+A good kebab place. The meat is very good; tasty; the meat is well cooked. The treats are sufficient and tasty.,t5_large,cot,trustworthy
+Interest was good; but doner was a complete disaster. First of all; it came cold; there was no proper sauce in it; there was so much onion that I could not taste the meat at all.,bart,direct,rant
+Interest was good; but doner was a complete disaster. First of all; it came cold; there was no proper sauce in it; there was so much onion that I could not taste the meat at all.,bart,few_shot,rant
+Interest was good; but doner was a complete disaster. First of all; it came cold; there was no proper sauce in it; there was so much onion that I could not taste the meat at all.,bart,cot,rant
+Interest was good; but doner was a complete disaster. First of all; it came cold; there was no proper sauce in it; there was so much onion that I could not taste the meat at all.,t5_base,direct,[nontrustworthy]
+Interest was good; but doner was a complete disaster. First of all; it came cold; there was no proper sauce in it; there was so much onion that I could not taste the meat at all.,t5_base,few_shot,bad
+Interest was good; but doner was a complete disaster. First of all; it came cold; there was no proper sauce in it; there was so much onion that I could not taste the meat at all.,t5_base,cot,doner
+Interest was good; but doner was a complete disaster. First of all; it came cold; there was no proper sauce in it; there was so much onion that I could not taste the meat at all.,t5_large,direct,[rant]
+Interest was good; but doner was a complete disaster. First of all; it came cold; there was no proper sauce in it; there was so much onion that I could not taste the meat at all.,t5_large,few_shot,bad
+Interest was good; but doner was a complete disaster. First of all; it came cold; there was no proper sauce in it; there was so much onion that I could not taste the meat at all.,t5_large,cot,untruthful
+Asian salmon pastas and salad varieties are very successful. They have not neglected to share the secret of their taste.,bart,direct,trustworthy
+Asian salmon pastas and salad varieties are very successful. They have not neglected to share the secret of their taste.,bart,few_shot,trustworthy
+Asian salmon pastas and salad varieties are very successful. They have not neglected to share the secret of their taste.,bart,cot,trustworthy
+Asian salmon pastas and salad varieties are very successful. They have not neglected to share the secret of their taste.,t5_base,direct,trustworthy
+Asian salmon pastas and salad varieties are very successful. They have not neglected to share the secret of their taste.,t5_base,few_shot,food
+Asian salmon pastas and salad varieties are very successful. They have not neglected to share the secret of their taste.,t5_base,cot,advertisement
+Asian salmon pastas and salad varieties are very successful. They have not neglected to share the secret of their taste.,t5_large,direct,trustworthy
+Asian salmon pastas and salad varieties are very successful. They have not neglected to share the secret of their taste.,t5_large,few_shot,trustworthy
+Asian salmon pastas and salad varieties are very successful. They have not neglected to share the secret of their taste.,t5_large,cot,trustworthy
+Kimbap wasn't for me; it's a tough flavor.,bart,direct,rant
+Kimbap wasn't for me; it's a tough flavor.,bart,few_shot,rant
+Kimbap wasn't for me; it's a tough flavor.,bart,cot,rant
+Kimbap wasn't for me; it's a tough flavor.,t5_base,direct,irrelevant
+Kimbap wasn't for me; it's a tough flavor.,t5_base,few_shot,not a fan
+Kimbap wasn't for me; it's a tough flavor.,t5_base,cot,a rant
+Kimbap wasn't for me; it's a tough flavor.,t5_large,direct,[advertising]
+Kimbap wasn't for me; it's a tough flavor.,t5_large,few_shot,relevant
+Kimbap wasn't for me; it's a tough flavor.,t5_large,cot,trustworthy
+I especially recommend wedding soup; stuffed meatballs; manti and Inegöl meatballs.,bart,direct,trustworthy
+I especially recommend wedding soup; stuffed meatballs; manti and Inegöl meatballs.,bart,few_shot,trustworthy
+I especially recommend wedding soup; stuffed meatballs; manti and Inegöl meatballs.,bart,cot,trustworthy
+I especially recommend wedding soup; stuffed meatballs; manti and Inegöl meatballs.,t5_base,direct,trustworthy
+I especially recommend wedding soup; stuffed meatballs; manti and Inegöl meatballs.,t5_base,few_shot,excellent
+I especially recommend wedding soup; stuffed meatballs; manti and Inegöl meatballs.,t5_base,cot,trustworthy
+I especially recommend wedding soup; stuffed meatballs; manti and Inegöl meatballs.,t5_large,direct,trustworthy
+I especially recommend wedding soup; stuffed meatballs; manti and Inegöl meatballs.,t5_large,few_shot,trustworthy
+I especially recommend wedding soup; stuffed meatballs; manti and Inegöl meatballs.,t5_large,cot,trustworthy
+"When we asked for a hamburger, we were told that it was not left; but the hamburger came to the side table; I'm breaking two points from here; other than that it was good.",bart,direct,rant
+"When we asked for a hamburger, we were told that it was not left; but the hamburger came to the side table; I'm breaking two points from here; other than that it was good.",bart,few_shot,rant
+"When we asked for a hamburger, we were told that it was not left; but the hamburger came to the side table; I'm breaking two points from here; other than that it was good.",bart,cot,rant
+"When we asked for a hamburger, we were told that it was not left; but the hamburger came to the side table; I'm breaking two points from here; other than that it was good.",t5_base,direct,trustworthy
+"When we asked for a hamburger, we were told that it was not left; but the hamburger came to the side table; I'm breaking two points from here; other than that it was good.",t5_base,few_shot,good
+"When we asked for a hamburger, we were told that it was not left; but the hamburger came to the side table; I'm breaking two points from here; other than that it was good.",t5_base,cot,a rant
+"When we asked for a hamburger, we were told that it was not left; but the hamburger came to the side table; I'm breaking two points from here; other than that it was good.",t5_large,direct,trustworthy
+"When we asked for a hamburger, we were told that it was not left; but the hamburger came to the side table; I'm breaking two points from here; other than that it was good.",t5_large,few_shot,honest
+"When we asked for a hamburger, we were told that it was not left; but the hamburger came to the side table; I'm breaking two points from here; other than that it was good.",t5_large,cot,trustworthy
+The food tastes good. The atmosphere of the place was not very attractive.,bart,direct,uncertain
+The food tastes good. The atmosphere of the place was not very attractive.,bart,few_shot,uncertain
+The food tastes good. The atmosphere of the place was not very attractive.,bart,cot,uncertain
+The food tastes good. The atmosphere of the place was not very attractive.,t5_base,direct,acceptable
+The food tastes good. The atmosphere of the place was not very attractive.,t5_base,few_shot,good
+The food tastes good. The atmosphere of the place was not very attractive.,t5_base,cot,irrational
+The food tastes good. The atmosphere of the place was not very attractive.,t5_large,direct,trustworthy
+The food tastes good. The atmosphere of the place was not very attractive.,t5_large,few_shot,acceptable
+The food tastes good. The atmosphere of the place was not very attractive.,t5_large,cot,trustworthy
+Appetizers were good. The size of the lahmacun was good; Even though I ordered spicy; it came painless.,bart,direct,trustworthy
+Appetizers were good. The size of the lahmacun was good; Even though I ordered spicy; it came painless.,bart,few_shot,trustworthy
+Appetizers were good. The size of the lahmacun was good; Even though I ordered spicy; it came painless.,bart,cot,trustworthy
+Appetizers were good. The size of the lahmacun was good; Even though I ordered spicy; it came painless.,t5_base,direct,trustworthy
+Appetizers were good. The size of the lahmacun was good; Even though I ordered spicy; it came painless.,t5_base,few_shot,good
+Appetizers were good. The size of the lahmacun was good; Even though I ordered spicy; it came painless.,t5_base,cot,good
+Appetizers were good. The size of the lahmacun was good; Even though I ordered spicy; it came painless.,t5_large,direct,trustworthy
+Appetizers were good. The size of the lahmacun was good; Even though I ordered spicy; it came painless.,t5_large,few_shot,positive
+Appetizers were good. The size of the lahmacun was good; Even though I ordered spicy; it came painless.,t5_large,cot,trustworthy
+Very clean restaurant... Tasty suchi and noodles.,bart,direct,trustworthy
+Very clean restaurant... Tasty suchi and noodles.,bart,few_shot,trustworthy
+Very clean restaurant... Tasty suchi and noodles.,bart,cot,trustworthy
+Very clean restaurant... Tasty suchi and noodles.,t5_base,direct,trustworthy
+Very clean restaurant... Tasty suchi and noodles.,t5_base,few_shot,excellent
+Very clean restaurant... Tasty suchi and noodles.,t5_base,cot,good
+Very clean restaurant... Tasty suchi and noodles.,t5_large,direct,trustworthy
+Very clean restaurant... Tasty suchi and noodles.,t5_large,few_shot,trustworthy
+Very clean restaurant... Tasty suchi and noodles.,t5_large,cot,trustworthy
+The ambiance is large and airy. The waiters are attentive and the service is fast. The tomato paste goes well with the trotter. The price is very reasonable.,bart,direct,trustworthy
+The ambiance is large and airy. The waiters are attentive and the service is fast. The tomato paste goes well with the trotter. The price is very reasonable.,bart,few_shot,trustworthy
+The ambiance is large and airy. The waiters are attentive and the service is fast. The tomato paste goes well with the trotter. The price is very reasonable.,bart,cot,trustworthy
+The ambiance is large and airy. The waiters are attentive and the service is fast. The tomato paste goes well with the trotter. The price is very reasonable.,t5_base,direct,trustworthy
+The ambiance is large and airy. The waiters are attentive and the service is fast. The tomato paste goes well with the trotter. The price is very reasonable.,t5_base,few_shot,great food
+The ambiance is large and airy. The waiters are attentive and the service is fast. The tomato paste goes well with the trotter. The price is very reasonable.,t5_base,cot,excellent
+The ambiance is large and airy. The waiters are attentive and the service is fast. The tomato paste goes well with the trotter. The price is very reasonable.,t5_large,direct,trustworthy
+The ambiance is large and airy. The waiters are attentive and the service is fast. The tomato paste goes well with the trotter. The price is very reasonable.,t5_large,few_shot,trustworthy
+The ambiance is large and airy. The waiters are attentive and the service is fast. The tomato paste goes well with the trotter. The price is very reasonable.,t5_large,cot,trustworthy
+Their products are delicious and the sizes are nice. It is very difficult to take orders from the waiters because it is crowded. In addition; the prices should have been more affordable.,bart,direct,uncertain
+Their products are delicious and the sizes are nice. It is very difficult to take orders from the waiters because it is crowded. In addition; the prices should have been more affordable.,bart,few_shot,uncertain
+Their products are delicious and the sizes are nice. It is very difficult to take orders from the waiters because it is crowded. In addition; the prices should have been more affordable.,bart,cot,uncertain
+Their products are delicious and the sizes are nice. It is very difficult to take orders from the waiters because it is crowded. In addition; the prices should have been more affordable.,t5_base,direct,advertisement
+Their products are delicious and the sizes are nice. It is very difficult to take orders from the waiters because it is crowded. In addition; the prices should have been more affordable.,t5_base,few_shot,good
+Their products are delicious and the sizes are nice. It is very difficult to take orders from the waiters because it is crowded. In addition; the prices should have been more affordable.,t5_base,cot,advertisement
+Their products are delicious and the sizes are nice. It is very difficult to take orders from the waiters because it is crowded. In addition; the prices should have been more affordable.,t5_large,direct,trustworthy
+Their products are delicious and the sizes are nice. It is very difficult to take orders from the waiters because it is crowded. In addition; the prices should have been more affordable.,t5_large,few_shot,positive
+Their products are delicious and the sizes are nice. It is very difficult to take orders from the waiters because it is crowded. In addition; the prices should have been more affordable.,t5_large,cot,trustworthy
+We ordered Etli Ali Nazik Kebab. They said he was the most famous. We ate meat with yogurt. The food was cold.,bart,direct,uncertain
+We ordered Etli Ali Nazik Kebab. They said he was the most famous. We ate meat with yogurt. The food was cold.,bart,few_shot,uncertain
+We ordered Etli Ali Nazik Kebab. They said he was the most famous. We ate meat with yogurt. The food was cold.,bart,cot,uncertain
+We ordered Etli Ali Nazik Kebab. They said he was the most famous. We ate meat with yogurt. The food was cold.,t5_base,direct,[trustworthy
+We ordered Etli Ali Nazik Kebab. They said he was the most famous. We ate meat with yogurt. The food was cold.,t5_base,few_shot,bad
+We ordered Etli Ali Nazik Kebab. They said he was the most famous. We ate meat with yogurt. The food was cold.,t5_base,cot,unacceptable
+We ordered Etli Ali Nazik Kebab. They said he was the most famous. We ate meat with yogurt. The food was cold.,t5_large,direct,trustworthy
+We ordered Etli Ali Nazik Kebab. They said he was the most famous. We ate meat with yogurt. The food was cold.,t5_large,few_shot,unreliable
+We ordered Etli Ali Nazik Kebab. They said he was the most famous. We ate meat with yogurt. The food was cold.,t5_large,cot,trustworthy
+We ate küşleme; it was amazing. But as you can see; really really expensive.,bart,direct,rant
+We ate küşleme; it was amazing. But as you can see; really really expensive.,bart,few_shot,rant
+We ate küşleme; it was amazing. But as you can see; really really expensive.,bart,cot,rant
+We ate küşleme; it was amazing. But as you can see; really really expensive.,t5_base,direct,trustworthy
+We ate küşleme; it was amazing. But as you can see; really really expensive.,t5_base,few_shot,really really expensive
+We ate küşleme; it was amazing. But as you can see; really really expensive.,t5_base,cot,advertisement
+We ate küşleme; it was amazing. But as you can see; really really expensive.,t5_large,direct,trustworthy
+We ate küşleme; it was amazing. But as you can see; really really expensive.,t5_large,few_shot,trustworthy
+We ate küşleme; it was amazing. But as you can see; really really expensive.,t5_large,cot,advertisement
+Recommend.,bart,direct,trustworthy
+Recommend.,bart,few_shot,trustworthy
+Recommend.,bart,cot,trustworthy
+Recommend.,t5_base,direct,trustworthy
+Recommend.,t5_base,few_shot,recommend
+Recommend.,t5_base,cot,
+Recommend.,t5_large,direct,trustworthy
+Recommend.,t5_large,few_shot,positive
+Recommend.,t5_large,cot,trustworthy
+The staff is very polite and very concerned. Thank you for the delicious food.,bart,direct,trustworthy
+The staff is very polite and very concerned. Thank you for the delicious food.,bart,few_shot,trustworthy
+The staff is very polite and very concerned. Thank you for the delicious food.,bart,cot,trustworthy
+The staff is very polite and very concerned. Thank you for the delicious food.,t5_base,direct,trustworthy
+The staff is very polite and very concerned. Thank you for the delicious food.,t5_base,few_shot,excellent
+The staff is very polite and very concerned. Thank you for the delicious food.,t5_base,cot,excellent
+The staff is very polite and very concerned. Thank you for the delicious food.,t5_large,direct,trustworthy
+The staff is very polite and very concerned. Thank you for the delicious food.,t5_large,few_shot,trustworthy
+The staff is very polite and very concerned. Thank you for the delicious food.,t5_large,cot,trustworthy
+It was very nice to taste the boza in the historical place. Way better than other bozas.,bart,direct,trustworthy
+It was very nice to taste the boza in the historical place. Way better than other bozas.,bart,few_shot,trustworthy
+It was very nice to taste the boza in the historical place. Way better than other bozas.,bart,cot,trustworthy
+It was very nice to taste the boza in the historical place. Way better than other bozas.,t5_base,direct,trustworthy
+It was very nice to taste the boza in the historical place. Way better than other bozas.,t5_base,few_shot,very nice to taste the boza in the historical place.
+It was very nice to taste the boza in the historical place. Way better than other bozas.,t5_base,cot,excellent
+It was very nice to taste the boza in the historical place. Way better than other bozas.,t5_large,direct,trustworthy
+It was very nice to taste the boza in the historical place. Way better than other bozas.,t5_large,few_shot,trustworthy
+It was very nice to taste the boza in the historical place. Way better than other bozas.,t5_large,cot,trustworthy
+Great job; thank you!,bart,direct,trustworthy
+Great job; thank you!,bart,few_shot,trustworthy
+Great job; thank you!,bart,cot,trustworthy
+Great job; thank you!,t5_base,direct,trustworthy
+Great job; thank you!,t5_base,few_shot,great job; thank you
+Great job; thank you!,t5_base,cot,ad
+Great job; thank you!,t5_large,direct,trustworthy
+Great job; thank you!,t5_large,few_shot,trustworthy
+Great job; thank you!,t5_large,cot,trustworthy
+It is a business that serves 2 orange juices that are not on the breakfast menu and that I did not order; as if they were on the menu; and charges an extra 40 TL.,bart,direct,rant
+It is a business that serves 2 orange juices that are not on the breakfast menu and that I did not order; as if they were on the menu; and charges an extra 40 TL.,bart,few_shot,rant
+It is a business that serves 2 orange juices that are not on the breakfast menu and that I did not order; as if they were on the menu; and charges an extra 40 TL.,bart,cot,rant
+It is a business that serves 2 orange juices that are not on the breakfast menu and that I did not order; as if they were on the menu; and charges an extra 40 TL.,t5_base,direct,[untrustworthy]
+It is a business that serves 2 orange juices that are not on the breakfast menu and that I did not order; as if they were on the menu; and charges an extra 40 TL.,t5_base,few_shot,negative
+It is a business that serves 2 orange juices that are not on the breakfast menu and that I did not order; as if they were on the menu; and charges an extra 40 TL.,t5_base,cot,a rant
+It is a business that serves 2 orange juices that are not on the breakfast menu and that I did not order; as if they were on the menu; and charges an extra 40 TL.,t5_large,direct,untruthful
+It is a business that serves 2 orange juices that are not on the breakfast menu and that I did not order; as if they were on the menu; and charges an extra 40 TL.,t5_large,few_shot,unreliable
+It is a business that serves 2 orange juices that are not on the breakfast menu and that I did not order; as if they were on the menu; and charges an extra 40 TL.,t5_large,cot,untruthful
+The okra soup was hot and scrumptious to the broth. The meat loaf and tandoori kebab were excellent. We ate in the garden with pleasure in a cool weather.,bart,direct,trustworthy
+The okra soup was hot and scrumptious to the broth. The meat loaf and tandoori kebab were excellent. We ate in the garden with pleasure in a cool weather.,bart,few_shot,trustworthy
+The okra soup was hot and scrumptious to the broth. The meat loaf and tandoori kebab were excellent. We ate in the garden with pleasure in a cool weather.,bart,cot,trustworthy
+The okra soup was hot and scrumptious to the broth. The meat loaf and tandoori kebab were excellent. We ate in the garden with pleasure in a cool weather.,t5_base,direct,trustworthy
+The okra soup was hot and scrumptious to the broth. The meat loaf and tandoori kebab were excellent. We ate in the garden with pleasure in a cool weather.,t5_base,few_shot,excellent
+The okra soup was hot and scrumptious to the broth. The meat loaf and tandoori kebab were excellent. We ate in the garden with pleasure in a cool weather.,t5_base,cot,excellent
+The okra soup was hot and scrumptious to the broth. The meat loaf and tandoori kebab were excellent. We ate in the garden with pleasure in a cool weather.,t5_large,direct,trustworthy
+The okra soup was hot and scrumptious to the broth. The meat loaf and tandoori kebab were excellent. We ate in the garden with pleasure in a cool weather.,t5_large,few_shot,positive
+The okra soup was hot and scrumptious to the broth. The meat loaf and tandoori kebab were excellent. We ate in the garden with pleasure in a cool weather.,t5_large,cot,trustworthy
+Great viewed restourant.,bart,direct,trustworthy
+Great viewed restourant.,bart,few_shot,trustworthy
+Great viewed restourant.,bart,cot,trustworthy
+Great viewed restourant.,t5_base,direct,trustworthy
+Great viewed restourant.,t5_base,few_shot,great
+Great viewed restourant.,t5_base,cot,irrational
+Great viewed restourant.,t5_large,direct,trustworthy
+Great viewed restourant.,t5_large,few_shot,trustworthy
+Great viewed restourant.,t5_large,cot,trustworthy
+Too expensive; I can cook better. Also; ambiance of the restaurant is old.,bart,direct,rant
+Too expensive; I can cook better. Also; ambiance of the restaurant is old.,bart,few_shot,rant
+Too expensive; I can cook better. Also; ambiance of the restaurant is old.,bart,cot,rant
+Too expensive; I can cook better. Also; ambiance of the restaurant is old.,t5_base,direct,advertisement
+Too expensive; I can cook better. Also; ambiance of the restaurant is old.,t5_base,few_shot,too expensive; i can cook better. also; the ambiance of the restaurant is old
+Too expensive; I can cook better. Also; ambiance of the restaurant is old.,t5_base,cot,irrational
+Too expensive; I can cook better. Also; ambiance of the restaurant is old.,t5_large,direct,[advertising]
+Too expensive; I can cook better. Also; ambiance of the restaurant is old.,t5_large,few_shot,negative
+Too expensive; I can cook better. Also; ambiance of the restaurant is old.,t5_large,cot,not worth the money
+The restaurant is well located and above all it is nicely decorated and clean.,bart,direct,trustworthy
+The restaurant is well located and above all it is nicely decorated and clean.,bart,few_shot,trustworthy
+The restaurant is well located and above all it is nicely decorated and clean.,bart,cot,trustworthy
+The restaurant is well located and above all it is nicely decorated and clean.,t5_base,direct,trustworthy
+The restaurant is well located and above all it is nicely decorated and clean.,t5_base,few_shot,nice
+The restaurant is well located and above all it is nicely decorated and clean.,t5_base,cot,excellent
+The restaurant is well located and above all it is nicely decorated and clean.,t5_large,direct,trustworthy
+The restaurant is well located and above all it is nicely decorated and clean.,t5_large,few_shot,trustworthy
+The restaurant is well located and above all it is nicely decorated and clean.,t5_large,cot,trustworthy
+The most delicious rice I have ever eaten. The ambiance of the environment is terrific; its desserts were amazing too.,bart,direct,trustworthy
+The most delicious rice I have ever eaten. The ambiance of the environment is terrific; its desserts were amazing too.,bart,few_shot,trustworthy
+The most delicious rice I have ever eaten. The ambiance of the environment is terrific; its desserts were amazing too.,bart,cot,trustworthy
+The most delicious rice I have ever eaten. The ambiance of the environment is terrific; its desserts were amazing too.,t5_base,direct,trustworthy
+The most delicious rice I have ever eaten. The ambiance of the environment is terrific; its desserts were amazing too.,t5_base,few_shot,best rice in town
+The most delicious rice I have ever eaten. The ambiance of the environment is terrific; its desserts were amazing too.,t5_base,cot,best rice i have ever eaten!
+The most delicious rice I have ever eaten. The ambiance of the environment is terrific; its desserts were amazing too.,t5_large,direct,trustworthy
+The most delicious rice I have ever eaten. The ambiance of the environment is terrific; its desserts were amazing too.,t5_large,few_shot,reliable
+The most delicious rice I have ever eaten. The ambiance of the environment is terrific; its desserts were amazing too.,t5_large,cot,trustworthy
+Very bad customer satisfaction. The prices are so insane.,bart,direct,rant
+Very bad customer satisfaction. The prices are so insane.,bart,few_shot,rant
+Very bad customer satisfaction. The prices are so insane.,bart,cot,rant
+Very bad customer satisfaction. The prices are so insane.,t5_base,direct,rant
+Very bad customer satisfaction. The prices are so insane.,t5_base,few_shot,bad
+Very bad customer satisfaction. The prices are so insane.,t5_base,cot,a rant
+Very bad customer satisfaction. The prices are so insane.,t5_large,direct,[rant]
+Very bad customer satisfaction. The prices are so insane.,t5_large,few_shot,negative
+Very bad customer satisfaction. The prices are so insane.,t5_large,cot,a rant
+There was a hair in the fries; disgusting.,bart,direct,rant
+There was a hair in the fries; disgusting.,bart,few_shot,rant
+There was a hair in the fries; disgusting.,bart,cot,rant
+There was a hair in the fries; disgusting.,t5_base,direct,[irrelevant]
+There was a hair in the fries; disgusting.,t5_base,few_shot,disgusting
+There was a hair in the fries; disgusting.,t5_base,cot,a rant
+There was a hair in the fries; disgusting.,t5_large,direct,[rant]
+There was a hair in the fries; disgusting.,t5_large,few_shot,unreliable
+There was a hair in the fries; disgusting.,t5_large,cot,untruthful
+Even though it was overcrowded; our orders came very quickly. Except for the künefe; all the treats were delicious. The künefe tasted oily. I recommend you to go to a very clean and relevant place.,bart,direct,trustworthy
+Even though it was overcrowded; our orders came very quickly. Except for the künefe; all the treats were delicious. The künefe tasted oily. I recommend you to go to a very clean and relevant place.,bart,few_shot,trustworthy
+Even though it was overcrowded; our orders came very quickly. Except for the künefe; all the treats were delicious. The künefe tasted oily. I recommend you to go to a very clean and relevant place.,bart,cot,trustworthy
+Even though it was overcrowded; our orders came very quickly. Except for the künefe; all the treats were delicious. The künefe tasted oily. I recommend you to go to a very clean and relevant place.,t5_base,direct,trustworthy
+Even though it was overcrowded; our orders came very quickly. Except for the künefe; all the treats were delicious. The künefe tasted oily. I recommend you to go to a very clean and relevant place.,t5_base,few_shot,very good
+Even though it was overcrowded; our orders came very quickly. Except for the künefe; all the treats were delicious. The künefe tasted oily. I recommend you to go to a very clean and relevant place.,t5_base,cot,irrational
+Even though it was overcrowded; our orders came very quickly. Except for the künefe; all the treats were delicious. The künefe tasted oily. I recommend you to go to a very clean and relevant place.,t5_large,direct,trustworthy
+Even though it was overcrowded; our orders came very quickly. Except for the künefe; all the treats were delicious. The künefe tasted oily. I recommend you to go to a very clean and relevant place.,t5_large,few_shot,trustworthy
+Even though it was overcrowded; our orders came very quickly. Except for the künefe; all the treats were delicious. The künefe tasted oily. I recommend you to go to a very clean and relevant place.,t5_large,cot,trustworthy
+It's a very delicious; beautiful small business; but the appointment is a bit difficult to find; the pizzas are great Cafe Inn pizza and a wonderful 4 cheese and brownie as dessert. Thank you for your good wishes.,bart,direct,uncertain
+It's a very delicious; beautiful small business; but the appointment is a bit difficult to find; the pizzas are great Cafe Inn pizza and a wonderful 4 cheese and brownie as dessert. Thank you for your good wishes.,bart,few_shot,uncertain
+It's a very delicious; beautiful small business; but the appointment is a bit difficult to find; the pizzas are great Cafe Inn pizza and a wonderful 4 cheese and brownie as dessert. Thank you for your good wishes.,bart,cot,uncertain
+It's a very delicious; beautiful small business; but the appointment is a bit difficult to find; the pizzas are great Cafe Inn pizza and a wonderful 4 cheese and brownie as dessert. Thank you for your good wishes.,t5_base,direct,trustworthy
+It's a very delicious; beautiful small business; but the appointment is a bit difficult to find; the pizzas are great Cafe Inn pizza and a wonderful 4 cheese and brownie as dessert. Thank you for your good wishes.,t5_base,few_shot,great
+It's a very delicious; beautiful small business; but the appointment is a bit difficult to find; the pizzas are great Cafe Inn pizza and a wonderful 4 cheese and brownie as dessert. Thank you for your good wishes.,t5_base,cot,good
+It's a very delicious; beautiful small business; but the appointment is a bit difficult to find; the pizzas are great Cafe Inn pizza and a wonderful 4 cheese and brownie as dessert. Thank you for your good wishes.,t5_large,direct,trustworthy
+It's a very delicious; beautiful small business; but the appointment is a bit difficult to find; the pizzas are great Cafe Inn pizza and a wonderful 4 cheese and brownie as dessert. Thank you for your good wishes.,t5_large,few_shot,trustworthy
+It's a very delicious; beautiful small business; but the appointment is a bit difficult to find; the pizzas are great Cafe Inn pizza and a wonderful 4 cheese and brownie as dessert. Thank you for your good wishes.,t5_large,cot,trustworthy
+Their prices are very reasonable and their ice creams are delicious. There is not only ice cream but also dessert sales inside. There are many options for ice cream; which is a very nice detail.,bart,direct,trustworthy
+Their prices are very reasonable and their ice creams are delicious. There is not only ice cream but also dessert sales inside. There are many options for ice cream; which is a very nice detail.,bart,few_shot,trustworthy
+Their prices are very reasonable and their ice creams are delicious. There is not only ice cream but also dessert sales inside. There are many options for ice cream; which is a very nice detail.,bart,cot,trustworthy
+Their prices are very reasonable and their ice creams are delicious. There is not only ice cream but also dessert sales inside. There are many options for ice cream; which is a very nice detail.,t5_base,direct,trustworthy
+Their prices are very reasonable and their ice creams are delicious. There is not only ice cream but also dessert sales inside. There are many options for ice cream; which is a very nice detail.,t5_base,few_shot,very good
+Their prices are very reasonable and their ice creams are delicious. There is not only ice cream but also dessert sales inside. There are many options for ice cream; which is a very nice detail.,t5_base,cot,good
+Their prices are very reasonable and their ice creams are delicious. There is not only ice cream but also dessert sales inside. There are many options for ice cream; which is a very nice detail.,t5_large,direct,trustworthy
+Their prices are very reasonable and their ice creams are delicious. There is not only ice cream but also dessert sales inside. There are many options for ice cream; which is a very nice detail.,t5_large,few_shot,trustworthy
+Their prices are very reasonable and their ice creams are delicious. There is not only ice cream but also dessert sales inside. There are many options for ice cream; which is a very nice detail.,t5_large,cot,trustworthy
+Due to the crowd; my order came late; there is no problem other than that.,bart,direct,uncertain
+Due to the crowd; my order came late; there is no problem other than that.,bart,few_shot,uncertain
+Due to the crowd; my order came late; there is no problem other than that.,bart,cot,uncertain
+Due to the crowd; my order came late; there is no problem other than that.,t5_base,direct,advertisement
+Due to the crowd; my order came late; there is no problem other than that.,t5_base,few_shot,shady
+Due to the crowd; my order came late; there is no problem other than that.,t5_base,cot,a rant
+Due to the crowd; my order came late; there is no problem other than that.,t5_large,direct,trustworthy
+Due to the crowd; my order came late; there is no problem other than that.,t5_large,few_shot,honest
+Due to the crowd; my order came late; there is no problem other than that.,t5_large,cot,trustworthy
+The hamburger bread was very nice. I didn't like his meatballs very much.Orders are coming out very quickly; and the working friends are very kind; thank you.,bart,direct,trustworthy
+The hamburger bread was very nice. I didn't like his meatballs very much.Orders are coming out very quickly; and the working friends are very kind; thank you.,bart,few_shot,trustworthy
+The hamburger bread was very nice. I didn't like his meatballs very much.Orders are coming out very quickly; and the working friends are very kind; thank you.,bart,cot,trustworthy
+The hamburger bread was very nice. I didn't like his meatballs very much.Orders are coming out very quickly; and the working friends are very kind; thank you.,t5_base,direct,advertisement
+The hamburger bread was very nice. I didn't like his meatballs very much.Orders are coming out very quickly; and the working friends are very kind; thank you.,t5_base,few_shot,good
+The hamburger bread was very nice. I didn't like his meatballs very much.Orders are coming out very quickly; and the working friends are very kind; thank you.,t5_base,cot,ad
+The hamburger bread was very nice. I didn't like his meatballs very much.Orders are coming out very quickly; and the working friends are very kind; thank you.,t5_large,direct,trustworthy
+The hamburger bread was very nice. I didn't like his meatballs very much.Orders are coming out very quickly; and the working friends are very kind; thank you.,t5_large,few_shot,trustworthy
+The hamburger bread was very nice. I didn't like his meatballs very much.Orders are coming out very quickly; and the working friends are very kind; thank you.,t5_large,cot,trustworthy
+The potatoes were almost dead and tasteless.,bart,direct,rant
+The potatoes were almost dead and tasteless.,bart,few_shot,rant
+The potatoes were almost dead and tasteless.,bart,cot,rant
+The potatoes were almost dead and tasteless.,t5_base,direct,rant
+The potatoes were almost dead and tasteless.,t5_base,few_shot,bad
+The potatoes were almost dead and tasteless.,t5_base,cot,a rant
+The potatoes were almost dead and tasteless.,t5_large,direct,[rant]
+The potatoes were almost dead and tasteless.,t5_large,few_shot,bad
+The potatoes were almost dead and tasteless.,t5_large,cot,rant
+Be sure to ask for all prices in advance. You'd definitely get charged triple the price and these guys will try to scam you in all possible ways. Including overcharging the market price; charging you for double the weight of the fish & serving you a half the fillet and all the bones to charge you for all that.,bart,direct,rant
+Be sure to ask for all prices in advance. You'd definitely get charged triple the price and these guys will try to scam you in all possible ways. Including overcharging the market price; charging you for double the weight of the fish & serving you a half the fillet and all the bones to charge you for all that.,bart,few_shot,rant
+Be sure to ask for all prices in advance. You'd definitely get charged triple the price and these guys will try to scam you in all possible ways. Including overcharging the market price; charging you for double the weight of the fish & serving you a half the fillet and all the bones to charge you for all that.,bart,cot,rant
+Be sure to ask for all prices in advance. You'd definitely get charged triple the price and these guys will try to scam you in all possible ways. Including overcharging the market price; charging you for double the weight of the fish & serving you a half the fillet and all the bones to charge you for all that.,t5_base,direct,trustworthy
+Be sure to ask for all prices in advance. You'd definitely get charged triple the price and these guys will try to scam you in all possible ways. Including overcharging the market price; charging you for double the weight of the fish & serving you a half the fillet and all the bones to charge you for all that.,t5_base,few_shot,bad
+Be sure to ask for all prices in advance. You'd definitely get charged triple the price and these guys will try to scam you in all possible ways. Including overcharging the market price; charging you for double the weight of the fish & serving you a half the fillet and all the bones to charge you for all that.,t5_base,cot,a rant
+Be sure to ask for all prices in advance. You'd definitely get charged triple the price and these guys will try to scam you in all possible ways. Including overcharging the market price; charging you for double the weight of the fish & serving you a half the fillet and all the bones to charge you for all that.,t5_large,direct,[rant]
+Be sure to ask for all prices in advance. You'd definitely get charged triple the price and these guys will try to scam you in all possible ways. Including overcharging the market price; charging you for double the weight of the fish & serving you a half the fillet and all the bones to charge you for all that.,t5_large,few_shot,bad
+Be sure to ask for all prices in advance. You'd definitely get charged triple the price and these guys will try to scam you in all possible ways. Including overcharging the market price; charging you for double the weight of the fish & serving you a half the fillet and all the bones to charge you for all that.,t5_large,cot,a rant
+Delicious food; but their toilets are filthy. That's why I'm deducting points.,bart,direct,rant
+Delicious food; but their toilets are filthy. That's why I'm deducting points.,bart,few_shot,rant
+Delicious food; but their toilets are filthy. That's why I'm deducting points.,bart,cot,rant
+Delicious food; but their toilets are filthy. That's why I'm deducting points.,t5_base,direct,advertisement
+Delicious food; but their toilets are filthy. That's why I'm deducting points.,t5_base,few_shot,disgusting
+Delicious food; but their toilets are filthy. That's why I'm deducting points.,t5_base,cot,i'm deducting points
+Delicious food; but their toilets are filthy. That's why I'm deducting points.,t5_large,direct,trustworthy
+Delicious food; but their toilets are filthy. That's why I'm deducting points.,t5_large,few_shot,negative
+Delicious food; but their toilets are filthy. That's why I'm deducting points.,t5_large,cot,trustworthy
+A delicious doner.,bart,direct,trustworthy
+A delicious doner.,bart,few_shot,trustworthy
+A delicious doner.,bart,cot,trustworthy
+A delicious doner.,t5_base,direct,trustworthy
+A delicious doner.,t5_base,few_shot,great pizza
+A delicious doner.,t5_base,cot,good
+A delicious doner.,t5_large,direct,trustworthy
+A delicious doner.,t5_large,few_shot,trustworthy
+A delicious doner.,t5_large,cot,trustworthy
+Covered doner kebab pita is also really delicious in lahmacun with cubed cheddar... The attention and care of the employees is extraordinary.,bart,direct,trustworthy
+Covered doner kebab pita is also really delicious in lahmacun with cubed cheddar... The attention and care of the employees is extraordinary.,bart,few_shot,trustworthy
+Covered doner kebab pita is also really delicious in lahmacun with cubed cheddar... The attention and care of the employees is extraordinary.,bart,cot,trustworthy
+Covered doner kebab pita is also really delicious in lahmacun with cubed cheddar... The attention and care of the employees is extraordinary.,t5_base,direct,trustworthy
+Covered doner kebab pita is also really delicious in lahmacun with cubed cheddar... The attention and care of the employees is extraordinary.,t5_base,few_shot,best pizza in town
+Covered doner kebab pita is also really delicious in lahmacun with cubed cheddar... The attention and care of the employees is extraordinary.,t5_base,cot,excellent
+Covered doner kebab pita is also really delicious in lahmacun with cubed cheddar... The attention and care of the employees is extraordinary.,t5_large,direct,trustworthy
+Covered doner kebab pita is also really delicious in lahmacun with cubed cheddar... The attention and care of the employees is extraordinary.,t5_large,few_shot,trustworthy
+Covered doner kebab pita is also really delicious in lahmacun with cubed cheddar... The attention and care of the employees is extraordinary.,t5_large,cot,trustworthy
+Well prepared hamburger; special taste. But a little bit expensive.here/,bart,direct,uncertain
+Well prepared hamburger; special taste. But a little bit expensive.here/,bart,few_shot,uncertain
+Well prepared hamburger; special taste. But a little bit expensive.here/,bart,cot,uncertain
+Well prepared hamburger; special taste. But a little bit expensive.here/,t5_base,direct,trustworthy
+Well prepared hamburger; special taste. But a little bit expensive.here/,t5_base,few_shot,good
+Well prepared hamburger; special taste. But a little bit expensive.here/,t5_base,cot,advertiser
+Well prepared hamburger; special taste. But a little bit expensive.here/,t5_large,direct,trustworthy
+Well prepared hamburger; special taste. But a little bit expensive.here/,t5_large,few_shot,positive
+Well prepared hamburger; special taste. But a little bit expensive.here/,t5_large,cot,honest
+"The atmosphere is nice and the food is delicious. We tried noodles, spring rolls; hot and sour soup and an apple dessert.",bart,direct,trustworthy
+"The atmosphere is nice and the food is delicious. We tried noodles, spring rolls; hot and sour soup and an apple dessert.",bart,few_shot,trustworthy
+"The atmosphere is nice and the food is delicious. We tried noodles, spring rolls; hot and sour soup and an apple dessert.",bart,cot,trustworthy
+"The atmosphere is nice and the food is delicious. We tried noodles, spring rolls; hot and sour soup and an apple dessert.",t5_base,direct,trustworthy
+"The atmosphere is nice and the food is delicious. We tried noodles, spring rolls; hot and sour soup and an apple dessert.",t5_base,few_shot,great food
+"The atmosphere is nice and the food is delicious. We tried noodles, spring rolls; hot and sour soup and an apple dessert.",t5_base,cot,good
+"The atmosphere is nice and the food is delicious. We tried noodles, spring rolls; hot and sour soup and an apple dessert.",t5_large,direct,trustworthy
+"The atmosphere is nice and the food is delicious. We tried noodles, spring rolls; hot and sour soup and an apple dessert.",t5_large,few_shot,positive
+"The atmosphere is nice and the food is delicious. We tried noodles, spring rolls; hot and sour soup and an apple dessert.",t5_large,cot,trustworthy
+You can find different tastes. It is open until late at night and serves with nice service.,bart,direct,trustworthy
+You can find different tastes. It is open until late at night and serves with nice service.,bart,few_shot,trustworthy
+You can find different tastes. It is open until late at night and serves with nice service.,bart,cot,trustworthy
+You can find different tastes. It is open until late at night and serves with nice service.,t5_base,direct,trustworthy
+You can find different tastes. It is open until late at night and serves with nice service.,t5_base,few_shot,good
+You can find different tastes. It is open until late at night and serves with nice service.,t5_base,cot,advertisement
+You can find different tastes. It is open until late at night and serves with nice service.,t5_large,direct,trustworthy
+You can find different tastes. It is open until late at night and serves with nice service.,t5_large,few_shot,trustworthy
+You can find different tastes. It is open until late at night and serves with nice service.,t5_large,cot,trustworthy
+Menu was like that; Recommend.,bart,direct,trustworthy
+Menu was like that; Recommend.,bart,few_shot,trustworthy
+Menu was like that; Recommend.,bart,cot,trustworthy
+Menu was like that; Recommend.,t5_base,direct,trustworthy
+Menu was like that; Recommend.,t5_base,few_shot,good
+Menu was like that; Recommend.,t5_base,cot,good
+Menu was like that; Recommend.,t5_large,direct,trustworthy
+Menu was like that; Recommend.,t5_large,few_shot,trustworthy
+Menu was like that; Recommend.,t5_large,cot,trustworthy
+We tried Lahmacun and Beyti. They both taste great.,bart,direct,trustworthy
+We tried Lahmacun and Beyti. They both taste great.,bart,few_shot,trustworthy
+We tried Lahmacun and Beyti. They both taste great.,bart,cot,trustworthy
+We tried Lahmacun and Beyti. They both taste great.,t5_base,direct,trustworthy
+We tried Lahmacun and Beyti. They both taste great.,t5_base,few_shot,great
+We tried Lahmacun and Beyti. They both taste great.,t5_base,cot,good
+We tried Lahmacun and Beyti. They both taste great.,t5_large,direct,trustworthy
+We tried Lahmacun and Beyti. They both taste great.,t5_large,few_shot,reliable
+We tried Lahmacun and Beyti. They both taste great.,t5_large,cot,trustworthy
+First of all; our orders came very quickly. Edamame came without salt; which we liked a lot. You can add your own. We ordered tuna and salmon as sashimi. I couldn't eat good sashimi in Istanbul for a long time; unfortunately this place did not pass the exam.,bart,direct,uncertain
+First of all; our orders came very quickly. Edamame came without salt; which we liked a lot. You can add your own. We ordered tuna and salmon as sashimi. I couldn't eat good sashimi in Istanbul for a long time; unfortunately this place did not pass the exam.,bart,few_shot,uncertain
+First of all; our orders came very quickly. Edamame came without salt; which we liked a lot. You can add your own. We ordered tuna and salmon as sashimi. I couldn't eat good sashimi in Istanbul for a long time; unfortunately this place did not pass the exam.,bart,cot,uncertain
+First of all; our orders came very quickly. Edamame came without salt; which we liked a lot. You can add your own. We ordered tuna and salmon as sashimi. I couldn't eat good sashimi in Istanbul for a long time; unfortunately this place did not pass the exam.,t5_base,direct,advertisement
+First of all; our orders came very quickly. Edamame came without salt; which we liked a lot. You can add your own. We ordered tuna and salmon as sashimi. I couldn't eat good sashimi in Istanbul for a long time; unfortunately this place did not pass the exam.,t5_base,few_shot,excellent
+First of all; our orders came very quickly. Edamame came without salt; which we liked a lot. You can add your own. We ordered tuna and salmon as sashimi. I couldn't eat good sashimi in Istanbul for a long time; unfortunately this place did not pass the exam.,t5_base,cot,unacceptable
+First of all; our orders came very quickly. Edamame came without salt; which we liked a lot. You can add your own. We ordered tuna and salmon as sashimi. I couldn't eat good sashimi in Istanbul for a long time; unfortunately this place did not pass the exam.,t5_large,direct,[advertising]
+First of all; our orders came very quickly. Edamame came without salt; which we liked a lot. You can add your own. We ordered tuna and salmon as sashimi. I couldn't eat good sashimi in Istanbul for a long time; unfortunately this place did not pass the exam.,t5_large,few_shot,bad
+First of all; our orders came very quickly. Edamame came without salt; which we liked a lot. You can add your own. We ordered tuna and salmon as sashimi. I couldn't eat good sashimi in Istanbul for a long time; unfortunately this place did not pass the exam.,t5_large,cot,ad
+"The dough is very crispy and the most successful part is definitely the dough. And the dough was waiting overnight. Also, there is a 2-3 hour queue; so crowded.",bart,direct,trustworthy
+"The dough is very crispy and the most successful part is definitely the dough. And the dough was waiting overnight. Also, there is a 2-3 hour queue; so crowded.",bart,few_shot,trustworthy
+"The dough is very crispy and the most successful part is definitely the dough. And the dough was waiting overnight. Also, there is a 2-3 hour queue; so crowded.",bart,cot,trustworthy
+"The dough is very crispy and the most successful part is definitely the dough. And the dough was waiting overnight. Also, there is a 2-3 hour queue; so crowded.",t5_base,direct,trustworthy
+"The dough is very crispy and the most successful part is definitely the dough. And the dough was waiting overnight. Also, there is a 2-3 hour queue; so crowded.",t5_base,few_shot,excellent
+"The dough is very crispy and the most successful part is definitely the dough. And the dough was waiting overnight. Also, there is a 2-3 hour queue; so crowded.",t5_base,cot,advertisement
+"The dough is very crispy and the most successful part is definitely the dough. And the dough was waiting overnight. Also, there is a 2-3 hour queue; so crowded.",t5_large,direct,trustworthy
+"The dough is very crispy and the most successful part is definitely the dough. And the dough was waiting overnight. Also, there is a 2-3 hour queue; so crowded.",t5_large,few_shot,trustworthy
+"The dough is very crispy and the most successful part is definitely the dough. And the dough was waiting overnight. Also, there is a 2-3 hour queue; so crowded.",t5_large,cot,trustworthy
+Our back hurt while eating; the place was clean.,bart,direct,uncertain
+Our back hurt while eating; the place was clean.,bart,few_shot,uncertain
+Our back hurt while eating; the place was clean.,bart,cot,uncertain
+Our back hurt while eating; the place was clean.,t5_base,direct,advertisement
+Our back hurt while eating; the place was clean.,t5_base,few_shot,bad
+Our back hurt while eating; the place was clean.,t5_base,cot,a rant
+Our back hurt while eating; the place was clean.,t5_large,direct,trustworthy
+Our back hurt while eating; the place was clean.,t5_large,few_shot,untruthful
+Our back hurt while eating; the place was clean.,t5_large,cot,trustworthy
+The food was just like the ones my mother made. Prices were reasonable.,bart,direct,trustworthy
+The food was just like the ones my mother made. Prices were reasonable.,bart,few_shot,trustworthy
+The food was just like the ones my mother made. Prices were reasonable.,bart,cot,trustworthy
+The food was just like the ones my mother made. Prices were reasonable.,t5_base,direct,trustworthy
+The food was just like the ones my mother made. Prices were reasonable.,t5_base,few_shot,great food
+The food was just like the ones my mother made. Prices were reasonable.,t5_base,cot,"i'm not sure if it's an advertisement or a rant, but the food was good."
+The food was just like the ones my mother made. Prices were reasonable.,t5_large,direct,trustworthy
+The food was just like the ones my mother made. Prices were reasonable.,t5_large,few_shot,trustworthy
+The food was just like the ones my mother made. Prices were reasonable.,t5_large,cot,trustworthy
+I can say that it is the only cafe in Samsun where you can eat waffle dessert properly. You can go without thinking.,bart,direct,trustworthy
+I can say that it is the only cafe in Samsun where you can eat waffle dessert properly. You can go without thinking.,bart,few_shot,trustworthy
+I can say that it is the only cafe in Samsun where you can eat waffle dessert properly. You can go without thinking.,bart,cot,trustworthy
+I can say that it is the only cafe in Samsun where you can eat waffle dessert properly. You can go without thinking.,t5_base,direct,trustworthy
+I can say that it is the only cafe in Samsun where you can eat waffle dessert properly. You can go without thinking.,t5_base,few_shot,good
+I can say that it is the only cafe in Samsun where you can eat waffle dessert properly. You can go without thinking.,t5_base,cot,i can say that it is the only cafe in samsun where you can eat waffle dessert properly. you can go without thinking.
+I can say that it is the only cafe in Samsun where you can eat waffle dessert properly. You can go without thinking.,t5_large,direct,trustworthy
+I can say that it is the only cafe in Samsun where you can eat waffle dessert properly. You can go without thinking.,t5_large,few_shot,trustworthy
+I can say that it is the only cafe in Samsun where you can eat waffle dessert properly. You can go without thinking.,t5_large,cot,trustworthy
+A decent place. You can eat as a family. You can eat many kinds of fish as grilled; fried or stewed.,bart,direct,trustworthy
+A decent place. You can eat as a family. You can eat many kinds of fish as grilled; fried or stewed.,bart,few_shot,trustworthy
+A decent place. You can eat as a family. You can eat many kinds of fish as grilled; fried or stewed.,bart,cot,trustworthy
+A decent place. You can eat as a family. You can eat many kinds of fish as grilled; fried or stewed.,t5_base,direct,trustworthy
+A decent place. You can eat as a family. You can eat many kinds of fish as grilled; fried or stewed.,t5_base,few_shot,good
+A decent place. You can eat as a family. You can eat many kinds of fish as grilled; fried or stewed.,t5_base,cot,good
+A decent place. You can eat as a family. You can eat many kinds of fish as grilled; fried or stewed.,t5_large,direct,trustworthy
+A decent place. You can eat as a family. You can eat many kinds of fish as grilled; fried or stewed.,t5_large,few_shot,decent
+A decent place. You can eat as a family. You can eat many kinds of fish as grilled; fried or stewed.,t5_large,cot,trustworthy
+I found the trotter soup I was looking for; it was very nice; thank you. Employees are not friendly.,bart,direct,trustworthy
+I found the trotter soup I was looking for; it was very nice; thank you. Employees are not friendly.,bart,few_shot,trustworthy
+I found the trotter soup I was looking for; it was very nice; thank you. Employees are not friendly.,bart,cot,trustworthy
+I found the trotter soup I was looking for; it was very nice; thank you. Employees are not friendly.,t5_base,direct,advertisement
+I found the trotter soup I was looking for; it was very nice; thank you. Employees are not friendly.,t5_base,few_shot,bad
+I found the trotter soup I was looking for; it was very nice; thank you. Employees are not friendly.,t5_base,cot,rant
+I found the trotter soup I was looking for; it was very nice; thank you. Employees are not friendly.,t5_large,direct,trustworthy
+I found the trotter soup I was looking for; it was very nice; thank you. Employees are not friendly.,t5_large,few_shot,relevant
+I found the trotter soup I was looking for; it was very nice; thank you. Employees are not friendly.,t5_large,cot,trustworthy
+The place was nice; but be aware of an expensive place.,bart,direct,uncertain
+The place was nice; but be aware of an expensive place.,bart,few_shot,uncertain
+The place was nice; but be aware of an expensive place.,bart,cot,uncertain
+The place was nice; but be aware of an expensive place.,t5_base,direct,advertisement
+The place was nice; but be aware of an expensive place.,t5_base,few_shot,nice
+The place was nice; but be aware of an expensive place.,t5_base,cot,"i'm not sure if it's an advertisement or a rant, but it was nice."
+The place was nice; but be aware of an expensive place.,t5_large,direct,trustworthy
+The place was nice; but be aware of an expensive place.,t5_large,few_shot,reliable
+The place was nice; but be aware of an expensive place.,t5_large,cot,advertisement
+It was quite crowded so we waited in line for a long time. The flavor was good.,bart,direct,trustworthy
+It was quite crowded so we waited in line for a long time. The flavor was good.,bart,few_shot,trustworthy
+It was quite crowded so we waited in line for a long time. The flavor was good.,bart,cot,trustworthy
+It was quite crowded so we waited in line for a long time. The flavor was good.,t5_base,direct,trustworthy
+It was quite crowded so we waited in line for a long time. The flavor was good.,t5_base,few_shot,good
+It was quite crowded so we waited in line for a long time. The flavor was good.,t5_base,cot,good
+It was quite crowded so we waited in line for a long time. The flavor was good.,t5_large,direct,trustworthy
+It was quite crowded so we waited in line for a long time. The flavor was good.,t5_large,few_shot,reliable
+It was quite crowded so we waited in line for a long time. The flavor was good.,t5_large,cot,trustworthy
+I love fried chicken; I love KFC.,bart,direct,trustworthy
+I love fried chicken; I love KFC.,bart,few_shot,trustworthy
+I love fried chicken; I love KFC.,bart,cot,trustworthy
+I love fried chicken; I love KFC.,t5_base,direct,advertisement
+I love fried chicken; I love KFC.,t5_base,few_shot,i love kfc
+I love fried chicken; I love KFC.,t5_base,cot,i love kfc
+I love fried chicken; I love KFC.,t5_large,direct,trustworthy
+I love fried chicken; I love KFC.,t5_large,few_shot,relevant
+I love fried chicken; I love KFC.,t5_large,cot,trustworthy
+The food is delicious; the view is beautiful.,bart,direct,trustworthy
+The food is delicious; the view is beautiful.,bart,few_shot,trustworthy
+The food is delicious; the view is beautiful.,bart,cot,trustworthy
+The food is delicious; the view is beautiful.,t5_base,direct,trustworthy
+The food is delicious; the view is beautiful.,t5_base,few_shot,excellent
+The food is delicious; the view is beautiful.,t5_base,cot,excellent
+The food is delicious; the view is beautiful.,t5_large,direct,trustworthy
+The food is delicious; the view is beautiful.,t5_large,few_shot,trustworthy
+The food is delicious; the view is beautiful.,t5_large,cot,trustworthy
+Local dishes and soups are nice.,bart,direct,trustworthy
+Local dishes and soups are nice.,bart,few_shot,trustworthy
+Local dishes and soups are nice.,bart,cot,trustworthy
+Local dishes and soups are nice.,t5_base,direct,trustworthy
+Local dishes and soups are nice.,t5_base,few_shot,good
+Local dishes and soups are nice.,t5_base,cot,trustworthy
+Local dishes and soups are nice.,t5_large,direct,trustworthy
+Local dishes and soups are nice.,t5_large,few_shot,relevant
+Local dishes and soups are nice.,t5_large,cot,trustworthy
+I strongly recommend. The best of the best. Very thin and soft. Nice service and reasonable price.,bart,direct,trustworthy
+I strongly recommend. The best of the best. Very thin and soft. Nice service and reasonable price.,bart,few_shot,trustworthy
+I strongly recommend. The best of the best. Very thin and soft. Nice service and reasonable price.,bart,cot,trustworthy
+I strongly recommend. The best of the best. Very thin and soft. Nice service and reasonable price.,t5_base,direct,trustworthy
+I strongly recommend. The best of the best. Very thin and soft. Nice service and reasonable price.,t5_base,few_shot,best pizza in town
+I strongly recommend. The best of the best. Very thin and soft. Nice service and reasonable price.,t5_base,cot,i strongly recommend
+I strongly recommend. The best of the best. Very thin and soft. Nice service and reasonable price.,t5_large,direct,trustworthy
+I strongly recommend. The best of the best. Very thin and soft. Nice service and reasonable price.,t5_large,few_shot,reliable
+I strongly recommend. The best of the best. Very thin and soft. Nice service and reasonable price.,t5_large,cot,trustworthy
+No management; food is cold and bad quality; no ice in coke. Not happy at all. I recommend either change the airport manager or close that branch. Definitely bad service.,bart,direct,rant
+No management; food is cold and bad quality; no ice in coke. Not happy at all. I recommend either change the airport manager or close that branch. Definitely bad service.,bart,few_shot,rant
+No management; food is cold and bad quality; no ice in coke. Not happy at all. I recommend either change the airport manager or close that branch. Definitely bad service.,bart,cot,rant
+No management; food is cold and bad quality; no ice in coke. Not happy at all. I recommend either change the airport manager or close that branch. Definitely bad service.,t5_base,direct,rant
+No management; food is cold and bad quality; no ice in coke. Not happy at all. I recommend either change the airport manager or close that branch. Definitely bad service.,t5_base,few_shot,bad
+No management; food is cold and bad quality; no ice in coke. Not happy at all. I recommend either change the airport manager or close that branch. Definitely bad service.,t5_base,cot,a rant
+No management; food is cold and bad quality; no ice in coke. Not happy at all. I recommend either change the airport manager or close that branch. Definitely bad service.,t5_large,direct,[rant]
+No management; food is cold and bad quality; no ice in coke. Not happy at all. I recommend either change the airport manager or close that branch. Definitely bad service.,t5_large,few_shot,bad
+No management; food is cold and bad quality; no ice in coke. Not happy at all. I recommend either change the airport manager or close that branch. Definitely bad service.,t5_large,cot,a rant
+As we were passing on the road; it was pleasing to our eyes and we dived in. It was good overall.,bart,direct,trustworthy
+As we were passing on the road; it was pleasing to our eyes and we dived in. It was good overall.,bart,few_shot,trustworthy
+As we were passing on the road; it was pleasing to our eyes and we dived in. It was good overall.,bart,cot,trustworthy
+As we were passing on the road; it was pleasing to our eyes and we dived in. It was good overall.,t5_base,direct,trustworthy
+As we were passing on the road; it was pleasing to our eyes and we dived in. It was good overall.,t5_base,few_shot,good
+As we were passing on the road; it was pleasing to our eyes and we dived in. It was good overall.,t5_base,cot,good
+As we were passing on the road; it was pleasing to our eyes and we dived in. It was good overall.,t5_large,direct,trustworthy
+As we were passing on the road; it was pleasing to our eyes and we dived in. It was good overall.,t5_large,few_shot,reliable
+As we were passing on the road; it was pleasing to our eyes and we dived in. It was good overall.,t5_large,cot,advertisement
+We sat at the table; 10m away from the water; went for a swim and then came back to our table. They have changing cabins inside; very clean. Tried some cocktails and they were really good; but prices are like in Kos; Greece where we came from.,bart,direct,uncertain
+We sat at the table; 10m away from the water; went for a swim and then came back to our table. They have changing cabins inside; very clean. Tried some cocktails and they were really good; but prices are like in Kos; Greece where we came from.,bart,few_shot,uncertain
+We sat at the table; 10m away from the water; went for a swim and then came back to our table. They have changing cabins inside; very clean. Tried some cocktails and they were really good; but prices are like in Kos; Greece where we came from.,bart,cot,uncertain
+We sat at the table; 10m away from the water; went for a swim and then came back to our table. They have changing cabins inside; very clean. Tried some cocktails and they were really good; but prices are like in Kos; Greece where we came from.,t5_base,direct,trustworthy
+We sat at the table; 10m away from the water; went for a swim and then came back to our table. They have changing cabins inside; very clean. Tried some cocktails and they were really good; but prices are like in Kos; Greece where we came from.,t5_base,few_shot,very good
+We sat at the table; 10m away from the water; went for a swim and then came back to our table. They have changing cabins inside; very clean. Tried some cocktails and they were really good; but prices are like in Kos; Greece where we came from.,t5_base,cot,honest
+We sat at the table; 10m away from the water; went for a swim and then came back to our table. They have changing cabins inside; very clean. Tried some cocktails and they were really good; but prices are like in Kos; Greece where we came from.,t5_large,direct,trustworthy
+We sat at the table; 10m away from the water; went for a swim and then came back to our table. They have changing cabins inside; very clean. Tried some cocktails and they were really good; but prices are like in Kos; Greece where we came from.,t5_large,few_shot,positive
+We sat at the table; 10m away from the water; went for a swim and then came back to our table. They have changing cabins inside; very clean. Tried some cocktails and they were really good; but prices are like in Kos; Greece where we came from.,t5_large,cot,trustworthy
